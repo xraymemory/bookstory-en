@@ -2,7 +2,7 @@
 
 The game was decompiled from the Visual Basic 5 source via VB Decompiler. It all seems to load fine in VB6 Studio.
 
-Translated strings are located in the `translations.csv` file. 
+Translated strings are located in the `translation.csv` file. 
 
 ## TO DO 
 
