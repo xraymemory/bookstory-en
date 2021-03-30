@@ -15,7 +15,7 @@ with open("translation.csv") as f:
 jp_files = set(jp_files)
 
 for jp_file in jp_files:
-	en_filename = "./en/" + jp_file[:-4] + "_en.frm"
+	en_filename = "./en/" + jp_file
 	en_file = open(en_filename, "w+", encoding="shift_jis")
 	with open(jp_file, encoding="shift_jis") as f:
 		lines = f.readlines()
