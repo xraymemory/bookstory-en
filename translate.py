@@ -9,7 +9,7 @@ with open("translation.csv") as f:
 	reader = csv.DictReader(f)
 	for row in reader:
 		t_dict[row["JAPANESE"]] = row["ENGLISH (HUMAN)"]
-		jp_file = row["FORM NUM"] + ".frm"
+		jp_file = "./src_jp/" + row["FORM NUM"] + ".frm"
 		jp_files.append(jp_file)
 
 jp_files = set(jp_files)
