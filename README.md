@@ -15,4 +15,4 @@ Translated strings are located in the `translation.csv` file. Translated source 
 
 ## TO DO
 * Translate book and dialogue strings recovered from `module1.bas` https://docs.google.com/spreadsheets/d/1QNyfKYVMm2h6_FBeSjggKUO4sAStSoeXWA4LKOgJPzg/edit?usp=sharing
-* Identify method of entry in `module1.bas` and how 
+* Identify method of entry in `module1.bas` and how to patch it. Currently I am editing the .exe directly using VBReFormer but that might not be sustainable since it does some seriously messed up things to the resulting binary. 
