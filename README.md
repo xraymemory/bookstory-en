@@ -2,7 +2,9 @@
 
 ![BOOKSTORY](img_01.png)
 
-*BookStory* is a book store business simulator from KairoSoft. Released as freeware, it has only been available in Japanese until now. [Original thread with some more context plus behind the scenes hex editing action!](https://mobile.twitter.com/unrealchill/status/1375828018711650305)
+*BookStory* is a book store business simulator from KairoSoft. Released as freeware, it has only been available in Japanese until now. 
+
+[Original thread with some more context plus behind the scenes hex editing action!](https://mobile.twitter.com/unrealchill/status/1375828018711650305)
 
 **WINDOWS PLAYABLE ALPHA [HERE](https://github.com/xraymemory/bookstory-en/releases/tag/0.5)**
 
