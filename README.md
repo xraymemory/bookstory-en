@@ -1,6 +1,6 @@
 # BookStory - English Translation
 
-![BOOKSTORY](img_01.png)
+![BOOKSTORY](img.png)
 
 *BookStory* is a book store business simulator from KairoSoft. Released as freeware, it has only been available in Japanese until now. 
 
