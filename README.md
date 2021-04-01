@@ -1,8 +1,16 @@
-# BookStory English Translation
+# BookStory - English Translation
 
 ![BOOKSTORY](img_01.png)
 
-The game was decompiled from the Visual Basic 5 source via VB Decompiler. It all seems to load fine in VB6 Studio and I can edit and redesign the forms. However, I'm currently getting memory errors when I try to build and compile to .exe on Windows 10.
+*BookStory* is a book store business simulator from KairoSoft. Released as freeware, it has only been available in Japanese until now. [Original thread with some more context plus behind the scenes hex editing action!](https://mobile.twitter.com/unrealchill/status/1375828018711650305)
 
-Translated strings are located in the `translation.csv` file. Translated source files are in the `en` directory.
+**WINDOWS PLAYABLE ALPHA [HERE](https://github.com/xraymemory/bookstory-en/releases/tag/0.5)**
 
+**MENUS AND UI ELEMENTS ARE 99% TRANSLATED! WE ARE LIVE**
+
+
+Translated strings are located in the `translation.csv` file. Translated source files and playable binaries are in the `en` directory.
+
+## TO DO
+* Translate book and dialogue strings recovered from `module1.bas` https://docs.google.com/spreadsheets/d/1QNyfKYVMm2h6_FBeSjggKUO4sAStSoeXWA4LKOgJPzg/edit?usp=sharing
+* Identify method of entry in `module1.bas` and how 
