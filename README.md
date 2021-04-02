@@ -6,7 +6,7 @@
 
 [Original thread with some more context plus behind the scenes hex editing action!](https://mobile.twitter.com/unrealchill/status/1375828018711650305)
 
-**WINDOWS PLAYABLE ALPHA [HERE](https://github.com/xraymemory/bookstory-en/releases/tag/0.5)**
+**WINDOWS PLAYABLE ALPHA [HERE](https://github.com/xraymemory/bookstory-en/releases/download/0.5/BookStory.zip)**
 
 **MENUS AND UI ELEMENTS ARE 99% TRANSLATED! WE ARE LIVE**
 
