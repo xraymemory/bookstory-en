@@ -115,54 +115,54 @@ Form12,Label1,給料,Salary,,Gehalt
 Form12,Label1,21万0000円,210k Yen,,210k Yen
 Form12,Label3,店員解雇,Fired Employees,,Gefeuerte Mitarbeiter
 Form13,Form13,店員情報,Employee Info,,Mitarbeiter-Info
-Form13,Label1,給料,Salary,,
-Form13,Label1,能力,Ability,,
-Form13,Label1,気力,Energy,,
-Form13,Label1,年齢,Age,,
-Form13,Label1,名前,Name,,
-Form14,Form14,お店の月々利益表,Monthly Profit,,
-Form14,Option3,毎年,Per year,,
-Form14,Option2,毎月,Per month,,
-Form14,Option1,毎日,Per day,,
-Form14,Label1,テナント代,Tenant fee,,
-Form14,Label1,サービス系,Service System,,
-Form14,Label1,保険関係,Insurance,,
-Form14,Label1,店員の給料,Employee's Salary,,
-Form14,Label1,お店の備品,Store's Fixtures,,
-Form14,Label1,雑誌と書籍,Magazines and Books,,
-Form14,Label1,その他,The rest,,
-Form14,Label1,合計,Total,,
-Form14,Label1,合計,Total,,
-Form14,Label1,支出,Expenses,,
-Form14,Label1,収入,Income,,
-Form15,Form15,月末です,End of the month,,
-Form15,Label1,収入,Income,,
-Form15,Label1,支出,Expenses,,
-Form15,Label1,合計,Total,,
-Form15,Label1,合計,Total,,
-Form15,Label1,その他,Other,,
-Form15,Label1,雑誌と書籍,Magazines and Books,,
-Form15,Label1,お店の備品,Store's Fixtures,,
-Form15,Label1,店員の給料,Employee's Salary,,
-Form15,Label1,保険関係,Insurance,,
-Form15,Label1,サービス系,Service System,,
-Form15,Label1,テナント代,Tenant fee,,
-Form15,Command1,閉じる,Close,,
-Form15,Label1,1997年8月末,End of August 1997,,
-Form15,Font,ＭＳ Ｐゴシック,MS PGothic,,
-Form15,Label1,今月の利益,Monthly Profit,,
-Form15,Label1,今月売った本の数,Books sold this month,,
-Form15,Label1,でした。,the red,,
-Form15,Label1,赤字,was in,,
-Form15,Label1,今月は,This month,,
-Form18,Form18,保険加入,Purchase Insurance,,
-Form18,Frame3,被害保険,Injury insurance,,
-Form18,Option5,加入する,Become member,,
-Form18,Option6,加入しない,Do not become member,,
-Form18,Label4,費用 月々5万円,"Monthly costs: 50,000 Yen",,
-Form18,Frame2,地震保険,Earthquake Insurance,,
-Form18,Option3,加入する,Become member,,
-Form18,Option4,加入しない,Do not become member,,
+Form13,Label1,給料,Salary,,Gehalt
+Form13,Label1,能力,Ability,,Fähigkeit
+Form13,Label1,気力,Energy,,Energie
+Form13,Label1,年齢,Age,,Alter
+Form13,Label1,名前,Name,,Name
+Form14,Form14,お店の月々利益表,Monthly Profit,,Monatlicher Profit
+Form14,Option3,毎年,Per year,,Jährlich
+Form14,Option2,毎月,Per month,,Monatlich
+Form14,Option1,毎日,Per day,,Täglich
+Form14,Label1,テナント代,Tenant fee,,Mietergebühr
+Form14,Label1,サービス系,Service System,,Servicesystem
+Form14,Label1,保険関係,Insurance,,Versicherung
+Form14,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt
+Form14,Label1,お店の備品,Store's Fixtures,,Laden-Möbel
+Form14,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher
+Form14,Label1,その他,The rest,,Andere
+Form14,Label1,合計,Total,,Insgesamt
+Form14,Label1,合計,Total,,Insgesamt
+Form14,Label1,支出,Expenses,,Ausgaben
+Form14,Label1,収入,Income,,Einkommen
+Form15,Form15,月末です,End of the month,,Ende des Monats
+Form15,Label1,収入,Income,,Einkommen
+Form15,Label1,支出,Expenses,,Ausgaben
+Form15,Label1,合計,Total,,Insgesamt
+Form15,Label1,合計,Total,,Insgesamt
+Form15,Label1,その他,Other,,Andere
+Form15,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher
+Form15,Label1,お店の備品,Store's Fixtures,,Laden-Möbel
+Form15,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt
+Form15,Label1,保険関係,Insurance,,Versicherung
+Form15,Label1,サービス系,Service System,,Servicesystem
+Form15,Label1,テナント代,Tenant fee,,Mietergebühr
+Form15,Command1,閉じる,Close,,Schließen
+Form15,Label1,1997年8月末,End of August 1997,,Ende August 1997
+Form15,Font,ＭＳ Ｐゴシック,MS PGothic,,MS PGothic
+Form15,Label1,今月の利益,Monthly Profit,,Monatlicher Profit
+Form15,Label1,今月売った本の数,Books sold this month,,Bücher in diesem Monat verkauft
+Form15,Label1,でした。,the red,,das Rot
+Form15,Label1,赤字,was in,,war in
+Form15,Label1,今月は,This month,,Dieser Monat
+Form18,Form18,保険加入,Purchase Insurance,,Versicherung kaufen
+Form18,Frame3,被害保険,Injury insurance,,Krankenversicherung
+Form18,Option5,加入する,Become member,,Mitglied werden
+Form18,Option6,加入しない,Do not become member,,Nicht Mitglied werden
+Form18,Label4,費用 月々5万円,"Monthly costs: 50,000 Yen",,"Monatliche Kosten: 50,000 Yen"
+Form18,Frame2,地震保険,Earthquake Insurance,,Erdbebenversicherung
+Form18,Option3,加入する,Become member,,Mitglied werden
+Form18,Option4,加入しない,Do not become member,,Nicht Mitglied werden
 Form18,Label2,費用 月々3万円,"Monthly costs: 30,000 Yen",,
 Form18,Frame1,火災保険,Fire / Home Insurance,,
 Form18,Option2,加入しない,Do not become member,,
