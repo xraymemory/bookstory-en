@@ -21,5 +21,5 @@ If you receive a message like "The program can't start because MSVBVM50.DLL is m
 ## TO DO
 * Figure out a way to change all the ???s to Japanese characters. 
   * The font is MS GOTHIC but doesnt seem to be rendering properly 
-* Translate book and dialogue strings recovered from `module1.bas` https://docs.google.com/spreadsheets/d/1QNyfKYVMm2h6_FBeSjggKUO4sAStSoeXWA4LKOgJPzg/edit?usp=sharing
+* [Translate book and dialogue strings recovered from module.bas](https://docs.google.com/spreadsheets/d/1QNyfKYVMm2h6_FBeSjggKUO4sAStSoeXWA4LKOgJPzg/edit?usp=sharing)
 * Identify method of entry in `module1.bas` and how to patch it. Currently I am editing the .exe directly using VBReFormer but that might not be sustainable since it does some seriously messed up things to the resulting binary. 
