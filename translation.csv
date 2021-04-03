@@ -1,623 +1,623 @@
-FORM NUM,LABEL,JAPANESE,ENGLISH (HUMAN),ENGLISH (MACHINE),GERMAN
-Form1,Form1,ビジュアルウインドウ,Game window,,Spielfenster
-Form2,Command2,閉じる,Close,,Schließen
-Form2,Command1,閉じる,Close,,Schließen
-Form2,Label3,バージョン情報,About,,Über
-Form3,Form3,新しいゲーム,New Game,,Neues Spiel
-Form3,Command2,決定,Select,,Auswählen
-Form3,Command1,やめる,Cancel,,Abbrechen
-Form3,Label3,新しいゲームを始めま,Start New Game,,Neues Spiel starten
-Form3,Label2,本屋の名前,Bookstore name,,Buchhandlungsname
-Form4,Form4,本屋情報,Bookstore info,,Buchhandlung-Info
-Form4,Label1,客の来た数,Number of Customers,,Anzahl der Kunden
-Form4,Label2,0人,0 People,,0 Menschen
-Form4,Label1,よごれ,Filth,,Schmutz
-Form4,Label1,耐震度,Seismic Resistance ,,seismischer Widerstand
-Form4,Label1,資金,Money,,Geld
-Form4,Label1,売った本の数,Number of Books Sold,,Anzahl der verk. Bücher
-Form4,Label2,0冊,0 Books,,0 Bücher
-Form4,Label2,0冊,0 Books,,0 Bücher
-Form4,Label1,最大書籍数,Maximum Book Count,,max. Bücheranzahl
-Form4,Label1,現在書籍数,Current Book Count,,Momentane Bücheranzahl
-Form4,Label2,0冊,0 Books,,0 Bücher
-Form4,Label1,年,Year,,Jahr
-Form4,Label1,月,Month,,Monat
-Form4,Label1,日,Day,,Tag
-Form4,Label2,日曜日,Sunday,,Sonntag
-Form4,Label1,時,Hour,,Stunde
-Form4,Label1,星の数,Number of Stars,,Anzahl der Sterne
-Form4,Label1,本屋の名前,Bookstore Name,,Buchhandlungsname
-Form5,Form5,備品設置,Fixtures,,Möbel
-Form5,Command2,キャンセル,Cancel,,Abbrechen
-Form5,Command1,設置,Installation,,Einbau
-Form5,Label1,収録書籍,Recording books,,Audiobücher
-Form5,Label2,価格,Price,,Preis
-Form5,Label3,備品設置,Equipment Installation,,Equipment-Einbau
-Form5,Label,10000000円,Yen,,Yen
-Form6,Form6,入荷雑誌選択,Magazine Selection in Stock,,Magazinauswahl auf Lager
-Form6,Command3,雑誌TOP10,Top 10 Magazines,,Top 10 Magazine
-Form6,Frame1,すべて売れたとき,When all items are sold,,Wenn alle Items verkauft sind
-Form6,Label5,利益,Profit,,Profit
-Form6,Label6,0円,Yen,,Yen
-Form6,Label5,売り値,Selling Price,,Verkaufspreis
-Form6,Label5,仕入値,Purchase Price,,Kaufpreis
-Form6,Command2,キャンセル,Cancel,,Abbrechen
+FORM NUM,LABEL,JAPANESE,ENGLISH (HUMAN),ENGLISH (MACHINE),GERMAN,ROMANIAN
+Form1,Form1,ビジュアルウインドウ,Game window,,Spielfenster,Fereastr? joc
+Form2,Command2,閉じる,Close,,Schließen,�nchide
+Form2,Command1,閉じる,Close,,Schließen,�nchide
+Form2,Label3,バージョン情報,About,,Über,Despre
+Form3,Form3,新しいゲーム,New Game,,Neues Spiel,Joc Nou
+Form3,Command2,決定,Select,,Auswählen,Selecteaz?
+Form3,Command1,やめる,Cancel,,Abbrechen,Anuleaz?
+Form3,Label3,新しいゲームを始めま,Start New Game,,Neues Spiel starten,�ncepe Joc Nou
+Form3,Label2,本屋の名前,Bookstore name,,Buchhandlungsname,Nume libr?rie
+Form4,Form4,本屋情報,Bookstore info,,Buchhandlung-Info,Info libr?rie
+Form4,Label1,客の来た数,Number of Customers,,Anzahl der Kunden,Num?r de Clien?i
+Form4,Label2,0人,0 People,,0 Menschen,0 Persoane
+Form4,Label1,よごれ,Filth,,Schmutz,Murd?rie
+Form4,Label1,耐震度,Seismic Resistance ,,seismischer Widerstand,Rezisten?? Seismic?
+Form4,Label1,資金,Money,,Geld,Bani
+Form4,Label1,売った本の数,Number of Books Sold,,Anzahl der verk. Bücher,Num?rul de C?r?i V�ndute
+Form4,Label2,0冊,0 Books,,0 Bücher,0 C?r?i
+Form4,Label2,0冊,0 Books,,0 Bücher,0 C?r?i
+Form4,Label1,最大書籍数,Maximum Book Count,,max. Bücheranzahl,Num?rul Maxim de C?r?i
+Form4,Label1,現在書籍数,Current Book Count,,Momentane Bücheranzahl,Num?r Curent de C?r?i
+Form4,Label2,0冊,0 Books,,0 Bücher,0 C?r?i
+Form4,Label1,年,Year,,Jahr,An
+Form4,Label1,月,Month,,Monat,Lun?
+Form4,Label1,日,Day,,Tag,Zi
+Form4,Label2,日曜日,Sunday,,Sonntag,Duminic?
+Form4,Label1,時,Hour,,Stunde,Or?
+Form4,Label1,星の数,Number of Stars,,Anzahl der Sterne,Num?r de Stele
+Form4,Label1,本屋の名前,Bookstore Name,,Buchhandlungsname,Nume Libr?rie
+Form5,Form5,備品設置,Fixtures,,Möbel,Mobil?
+Form5,Command2,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form5,Command1,設置,Installation,,Einbau,Instalare
+Form5,Label1,収録書籍,Recording books,,Audiobücher,�nregistare c?r?i
+Form5,Label2,価格,Price,,Preis,Pre?
+Form5,Label3,備品設置,Equipment Installation,,Equipment-Einbau,Instalare Echipament
+Form5,Label,10000000円,Yen,,Yen,Yen
+Form6,Form6,入荷雑誌選択,Magazine Selection in Stock,,Magazinauswahl auf Lager,Selec?ie de Reviste �n Stoc
+Form6,Command3,雑誌TOP10,Top 10 Magazines,,Top 10 Magazine,Top 10 Reviste
+Form6,Frame1,すべて売れたとき,When all items are sold,,Wenn alle Items verkauft sind,C�nd toate produsele sunt v�ndute
+Form6,Label5,利益,Profit,,Profit,Profit
+Form6,Label6,0円,Yen,,Yen,Yen
+Form6,Label5,売り値,Selling Price,,Verkaufspreis,Pre? de V�nzare
+Form6,Label5,仕入値,Purchase Price,,Kaufpreis,Pre? de Cump?rare
+Form6,Command2,キャンセル,Cancel,,Abbrechen,Anuleaz?
 Form6,Label5,すべての雑誌の入荷数を変更,"Change quantity of all recently-arrived 
-magazines",,Ändere die Menge aller kürzlich bestellten Magazine
-Form6,Label5,在庫数,Available Inventory,,Verfügbarer Inventarplatz
-Form6,Label5,資金,Funding,,Finanzierung
-Form6,Label5,発行部数,Number of Printed Copies,,Anzahl der gedruckten Kopien
-Form6,Label5,入荷数,Arrival count,,Ankunftszahl
-Form6,Label5,メモ,Memo,,Memo
-Form6,Label5,発売日,Release Date,,Erscheinungsdatum
-Form6,Label5,雑誌名,Book Title,,Buchtitel
-Form6,Label10,0万,0k,,0k
-Form6,Label10,10万,100k,,100k
-Form6,Label10,0部,0 Copies,,Keine Kopien
-Form6,Label10,20万,200k,,200k
-Form6,Label6,0冊,0 Books,,0 Bücher
-Form6,Label2,メモ,Memo,,Memo
-Form6,Label2,発売日,Release Date,,Erscheinungsdatum
-Form6,Label10,仕入値,Purchase Price,,Kaufpreis
-Form6,Label12,売り値,Selling Price,,Verkaufspreis
-Form6,Label12,入荷数,Number of Arrivals,,Anzahl der Ankünfte
-Form6,Label12,雑誌名,Magazine Name,,Magazin-Name
-Form7,Form7,店員雇用,Employee Info,,Mitarbeiter-Info
-Form7,Command2,雇用,Hire,,Einstellen
-Form7,Command1 ,閉じる,Close,,Schließen
-Form7,Label,0歳,0 Years Old,,0 Jahre alt
-Form7,Label1,年齢,Age,,Alter
-Form7,Label1,0円,0 Yen,,0 Yen
-Form7,Label1,給料,Salary,,Gehalt
-Form7,Label1,能力,Skill level,,Fähigkeitslevel
-Form7,Label1,あああ,AAA,,AAA
-Form7,Label3,店員を雇用します,Now hiring store clerks,,Wir stellen jetzt Ladenverkäufer ein
-Form7,Label1,名前,Name,,Name
-Form8,Form8,お客さん,Guest,,Gast
-Form8,Label5,強盗,Thief,,Dieb
-Form8,Label1,名前,Name,,Name
-Form8,Label,謎,Mystery,,Geheimnis
-Form8,Label1,年齢,Age,,Alter
-Form8,Label,??歳,?? years old,,?? Jahre alt
-Form8,Label,強盗です！,Robbery!,,Raub!
-Form8,Label1,気力,Effort,,Aufwand
-Form8,Label1,能力,Skill level,,Fähigkeitslevel
-Form8,Label4,店員の情報,Employee Info,,Mitarbeiter-Info
-Form8,Label1,給料,Salary,,Gehalt
-Form8,Label1,年齢,Age,,Alter
-Form8,Label1,名前,Name,,Name
-Form8,Label2,掃除業者の情報,Janitor Info,,Hausmeister-Info
-Form8,Label1,年齢,Age,,Alter
-Form8,Label1,名前,Name,,Name
-Form8,Label3, お客さんの情報,Customer Info,,Kunden-Info
-Form8,Label1,名前,Name,,Name
-Form8,Label1,年齢,Age,,Alter
-Form8,Label1,好きな本,Favorite book,,Lieblingsbuch
-Form8,Label1,満足度,Satisfaction level,,Zufriedenheit
-Form8,Label1,お店に来た回数,# of visits,,# von Besuchen
-Form9,Form9,レジ選択,Register Selection,,Registerauswahl
-Form9,Command2,購入,Purchase,,Kauf
-Form9,Command1,キャンセル,Cancel,,Abbrechen
-Form9,Label1,レジ速度,Cashier speed,,Kassiergeschwindigkeit
-Form9,Label1,価格,Price,,Preis
-Form9,Label3,レジを選択します ,Choose cashier,,Wähle den Kassierer aus
-Form10,Form10,お客さんの意見,Customer Opinion,,Kundenmeinung
-Form10,Command1,閉じる,Close,,Schließen
-Form12,Form12,店員解雇,Employee Dismissal,,Kündigung von Mitarbeitern
-Form12,Command2,解雇する,Dismiss employee,,Mitarbeiter kündigen
-Form12,Command1,やめる,Quit,,Beenden
-Form12,Label1,気力,Willpower,,Willenskraft
-Form12,Label1,名前,Name,,Name
-Form12,Label,12歳,12 years old,,12 Jahre alt
-Form12,Label1,年齢,Age,,Alter
-Form12,Label1,能力,Ability,,Fähigkeit
-Form12,Label1,給料,Salary,,Gehalt
-Form12,Label1,21万0000円,210k Yen,,210k Yen
-Form12,Label3,店員解雇,Fired Employees,,Gefeuerte Mitarbeiter
-Form13,Form13,店員情報,Employee Info,,Mitarbeiter-Info
-Form13,Label1,給料,Salary,,Gehalt
-Form13,Label1,能力,Ability,,Fähigkeit
-Form13,Label1,気力,Energy,,Energie
-Form13,Label1,年齢,Age,,Alter
-Form13,Label1,名前,Name,,Name
-Form14,Form14,お店の月々利益表,Monthly Profit,,Monatlicher Profit
-Form14,Option3,毎年,Per year,,Jährlich
-Form14,Option2,毎月,Per month,,Monatlich
-Form14,Option1,毎日,Per day,,Täglich
-Form14,Label1,テナント代,Tenant fee,,Mietergebühr
-Form14,Label1,サービス系,Service System,,Servicesystem
-Form14,Label1,保険関係,Insurance,,Versicherung
-Form14,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt
-Form14,Label1,お店の備品,Store's Fixtures,,Laden-Möbel
-Form14,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher
-Form14,Label1,その他,The rest,,Andere
-Form14,Label1,合計,Total,,Insgesamt
-Form14,Label1,合計,Total,,Insgesamt
-Form14,Label1,支出,Expenses,,Ausgaben
-Form14,Label1,収入,Income,,Einkommen
-Form15,Form15,月末です,End of the month,,Ende des Monats
-Form15,Label1,収入,Income,,Einkommen
-Form15,Label1,支出,Expenses,,Ausgaben
-Form15,Label1,合計,Total,,Insgesamt
-Form15,Label1,合計,Total,,Insgesamt
-Form15,Label1,その他,Other,,Andere
-Form15,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher
-Form15,Label1,お店の備品,Store's Fixtures,,Laden-Möbel
-Form15,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt
-Form15,Label1,保険関係,Insurance,,Versicherung
-Form15,Label1,サービス系,Service System,,Servicesystem
-Form15,Label1,テナント代,Tenant fee,,Mietergebühr
-Form15,Command1,閉じる,Close,,Schließen
-Form15,Label1,1997年8月末,End of August 1997,,Ende August 1997
-Form15,Font,ＭＳ Ｐゴシック,MS PGothic,,MS PGothic
-Form15,Label1,今月の利益,Monthly Profit,,Monatlicher Profit
-Form15,Label1,今月売った本の数,Books sold this month,,Bücher in diesem Monat verkauft
-Form15,Label1,でした。,the red,,das Rot
-Form15,Label1,赤字,was in,,war in
-Form15,Label1,今月は,This month,,Dieser Monat
-Form18,Form18,保険加入,Purchase Insurance,,Versicherung kaufen
-Form18,Frame3,被害保険,Injury insurance,,Krankenversicherung
-Form18,Option5,加入する,Become member,,Mitglied werden
-Form18,Option6,加入しない,Do not become member,,Nicht Mitglied werden
-Form18,Label4,費用 月々5万円,"Monthly costs: 50,000 Yen",,"Monatliche Kosten: 50,000 Yen"
-Form18,Frame2,地震保険,Earthquake Insurance,,Erdbebenversicherung
-Form18,Option3,加入する,Become member,,Mitglied werden
-Form18,Option4,加入しない,Do not become member,,Nicht Mitglied werden
-Form18,Label2,費用 月々3万円,"Monthly costs: 30,000 Yen",,"Monatliche Kosten: 30,000 Yen"
-Form18,Frame1,火災保険,Fire / Home Insurance,,Hausversicherung
-Form18,Option2,加入しない,Do not become member,,Nicht Mitglied werden
-Form18,Option1,加入する,Become member,,Mitglied werden
-Form18,Label1,費用 月々3万円,"Monthly costs: 30,000 Yen",,Monatliche Kosten: 30.000 Yen
-Form18,Command2,決定,Confirm,,Bestätigen
-Form18,Command1,キャンセル,Cancel,,Abbrechen
-Form18,Label5,すべての保険費用を合計すると月々円かかります。,Total costs per month:,,Monatliche Kosten insgesamt:
-Form18,Label3,どの保険に入りますか,Current plan,,Momentaner Plan
-Form19,Form19,耐震工事,Seismic Retrofitting,,seismische Nachrüstung
-Form19,Option2,ふつうに,Ordinarily,,Gewöhnlich
-Form19,Option1,すこし,A little bit,,Ein bisschen
-Form19,Frame2,費用計算,Calculate costs,,Kosten berechnen
-Form19,Label1,円,Yen,,Yen
-Form19,Label1,円,Yen,,Yen
-Form19,Label1,円,Yen,,Yen
-Form19,Label1,残金,Balance:,,Guthaben
-Form19,Label1,掃除費用,Cleaning fee,,Reinungskosten
-Form19,Label1,現在資金,Current funding,,aktuelle Finanzierung
-Form19,Command4,掃除する,Clean up,,Aufräumen
-Form19,Command3,キャンセル,Cancel,,Abbrechen
-Form19,Label2,掃除方法選択,Cleaning method,,Aufräummethode
-Form19,Label2,掃除を行います,Perform cleaning,,Reinigen
-Form19,Frame3,現在耐震度,Current Seismic Resistance ,,Momentaner seismischer Widerstand
-Form19,Label1,耐震度,Seismic Resistance ,,seismischer Widerstand
-Form19,Command1,キャンセル,Cancel,,Abbrechen
-Form19,Command2,工事する,Start construction,,Baustelle starten
-Form19,Frame1,費用計算,Calculate costs,,Kosten berechnen
-Form19,Label1,現在資金,Available funds,,Verfügbare Geldmittel
-Form19,Label1,工事費用,Construction costs,,Baustellkosten
-Form19,Label1,残金,Renovation costs,,Renovierungskosten
-Form19,Label,円,Yen,,Yen
-Form19,Label,円,Yen,,Yen
-Form19,Label,円,Yen,,Yen
-Form19,Label3,耐震工事を行います,Seismic Retrofitting,,seismische Nachrüstung
-Form20,Form20,備品情報,Equipment Info,,Ausrüstungsinfo
-Form20,Command3,燃やす,Burn,,Brennen
-Form20,Command1,撤去,Remove,,Entfernen
-Form20,Command2,閉じる,Close,,Schließen
-Form20,Label1,利用回数,Number of times used,,x-mal benutzt
-Form20,Label1,最大収録,Maximum Recording,,Maximale Aufnahme
-Form20,Label3,備品の情報です,Equipment Info,,Ausrüstungsinfo
-Form21,Form21,書籍を入荷,Receive Books,,Bücher erhalten
-Form21,Command2,書籍TOP10,Top 10 Books,,Top 10 Bücher
-Form21,Frame2,すべて売れたと,When all items are sold,,Wenn alle Artikel verkauft sind
-Form21,Label5,仕入値,Purchase price,,Kaufpreis
-Form21,label5,売り値,Sale price,,Verkaufspreis
-Form21,label5,利益,Profit,,Profit
-Form21,label6,0円,0 Yen,,Yen
-Form21,label6,0円,0 Yen,,Yen
-Form21,label6,0円,0 Yen,,Yen
-Form21,command3,キャンセル,Cancel,,Abbrechen
-Form21,frame1,売り切れたら,When sold out,,Wenn ausverkauft
-Form21,option2,売り切れてもそのまま,Do not restock,,Nicht auffüllen
-Form21,option1,売り切れたら再度入荷する,Restock,,Auffüllen
-Form21,command1,入荷する,Receive Books,,Bücher erhalten
-Form21,Label5,すべての書籍の入荷数を変更,Change number of books,,Anzahl der Bücher verändern
-Form21,Label5,資金,Funding,,Finanzierung
-Form21,Label5,在庫数,Inventory count,,Inventarplatz
-Form21,Label5,入荷数,Number of incoming books,,Anzahl der ankommenden Bücher
-Form21,Label5,メモ,Memo,,Memo
-Form21,Label5,書籍名,Book title,,Buchtitel
-Form21,Label2,入荷数,Qty in Stock,,Menge auf Lager
-Form21,Label2,売り値,Selling Price,,Verkaufspreis
-Form21,Label10,仕入値,Purchase price,,Kaufpreis
-Form21,Label2,ジャンル,Genre,,Genre
-Form21,Label2,メモ,Memo,,Memo
-Form21,Label2,書籍名,Book title,,Buchtitel
-Form21,Label2,入荷決定してから 3日後に本が届きます>>,Book will arrive in 3 days,,Buch wird in 3 Tagen ankommen
-Form21,label6,0冊,0 books,,0 Bücher
-Form22,Form22,全日本 本屋コンテスト,National Bookstore Competition,,Nationaler Bücherladenwettbewerb
-Form22,Command1,終了,The end,,Das Ende
-Form22,Label2,備品設備賞,Furnishing Award,,Möbilierungsauszeichnung
-Form22,Label3,97年上半期コンテスト,First half of 1997 Contest,,Erste Hälfte des 1997'er Wettbewerbs
-Form22,Label2,粗悪賞,Worst Award,,Schlechteste Auszeichnung
-Form22,Label2,努力賞,Good Effort Award,,Hoher-Aufwand-Auszeichnung
-Form22,Label2,本売上賞,Best Sales Award,,Höchste-Verkaufszahlen-Auszeichnung
-Form22,Label2,清掃賞,Cleanliness Award,,Sauberkeitsauszeichnung
-Form22,Label2,グランプリ,Grand Prix,,Grand Prix
-Form17,Form17,雑誌の在庫,Magazine Inventory,,Zeitschrift-Inventar
-Form17,Label1,利益,Profit,,Profit
-Form17,Label1,雑誌名,Magazine Name,,Zeitschrift-Name
-Form17,Label1,在庫数,Inventory count,,Inventarzahl
-Form17,Label1,前回売上,Previous Sales,,Vorhergehende Verkaufszahlen
-Form23,Form23,書籍の在庫,Book stock,,Bücherlager
-Form23,Label1,書籍名,Book title,,Buchtitel
-Form23,Label1,利益,Profit,,Profit
-Form23,Label1,在庫,Inventory count,,Inventarzahl
-Form23,Label1,売数,Number of sales,,Anzahl der Verkäufe
-Form23,Label1,次回入荷予定,Next shipment,,Nächster Versand
-Form24,Form24,銀行,Bank,,Bank
-Form24,Frame1,借金,Loan,,Darlehen
-Form24,Label1,日,Day,,Tag
-Form24,Label1,月,Month,,Monat
-Form24,Label1,年,Year,,Jahr
-Form24,Label1,日,Day,,Tag
-Form24,Label1,月,Month,,Monat
-Form24,Label1,年,Year,,Jahr
-Form24,Label6,返済日,Payment Due,,Zahlung fällig am
-Form24,Label5,金額,Amount of $,,Anzahl der $
-Form24,Command2,借金する,Take A Loan,,Ein Darlehen nehmen
-Form24,Command1,帰る,Go Back,,Zurück
-Form24,Label5,資金,Available funds,,Verfügbare Geldmittel
-Form24,Label3,銀行です ,Bank,,Bank
-Form25,Form25,借金,Debt,,Schulden
-Form25,Command2,借りる,Borrow,,Leihen
-Form25,Command1,やめる,Cancel,,Abbrechen
-Form25,Label1,年,Year,,Jahr
-Form25,Label1,月,Month,,Monat
-Form25,Label5,返済日,Due Date,,Fälligkeitsdatum
-Form25,Label5,返済金額 (利子20%),Amount Due (20% Interest),,fälliger Betrag (20% Zinsen)
-Form25,Label5,借金金額,Amount Borrowed,,Anzahl geliehen
-Form25,Label5,借金可能金額,Amount Borrowable,,Anzahl leihbarer Mittel
-Form25,Label5,資金,Funding,,Finanzierung
-Form25,Label3,いくら借りますか ,How much to borrow?,,Wie viel leihen?
-Form26,Form26,借金返済,Debt Repayment,,Schuldenrückzahlung
-Form26,Command1,閉じる,Close,,Schließen
-Form26,Label1,日 に借金した,Borrowed on,,Geliehen am
-Form26,Label1,月,Month,,Monat
-Form26,Label1,年,Year,,Jahr
-Form26,Label1,借金の返済期限がきました。,Payment past due!,,Zahlung überfallig!
-Form26,Label3,借金の返済をします,Repay the debt,,Zahle die Schulden
-Form27,Form27,今日は,Today is,,Heute ist
-Form27,Command1,閉じる,Close,,Schließen
-Form27,Label3,「→」がついている雑誌を入荷しています。,Magazines with are in stock,,Zeitschriften auf Lager
-Form27,Label1,年,Year,,Jahr
-Form27,Label1,月,Month,,Monat
-Form27,Label1,日,Day,,Tag
-Form27,Label2,日曜日,Sunday,,Sonntag
-Form28,Form28,スピード変更,Change Speed,,Geschwindigkeit ändern
-Form28,Frame1,速度,Speed,,Geschwindigkeit
-Form28,Command1,決定,OK,,OK
-Form28,Label1,速度,Speed,,Geschwindigkeit
-Form28,Label3,スピードを変更します,The speed will be adjusted.,,Die Geschwindigkeit wird angepasst.
-Form29,Form29,書籍の売り数推移,Book Sales Trends,,Bücherverkauf-Trends
-Form29,Option5,百万,Million,,Millionen
-Form29,Option6,1千万,10 Million,,10 Millionen
-Form29,Option3,毎日,Daily,,Täglich
-Form29,Option2,毎月,Monthly,,Monatlich
-Form29,Option1,毎年,Yearly,,Jährlich
-Form29,Label1,2百冊,200 books,,200 Bücher
-Form29,Label1,百冊,hundred books,,Hundert Bücher
-Form29,Label1,0冊,0 books,,0 Bücher
-Form30,Form30,お店の利益推移,Store Profit Trends,,Ladenprofit-Trends
-Form30,Option4,10万,100k,,100k
-Form30,Option6,1千万,10 million,,10 Millionen
-Form30,Option5,百万,million,,Millionen
-Form30,Option3,毎日,Every day,,Jeden Tag
-Form30,Option2,毎月,Every month,,Jeden Monat
-Form30,Label1,百冊,Hundred books,,Hundert Bücher
-Form30,Label1,0円,0 Yen,,0 Yen
-Form30,Label1,百冊,100 books,,100 Bücher
-Form30,Label1,2百冊,200 books,,200 Bücher
-Form30,Option1,毎年,Every year,,Jedes Jahr
-Form31,Form31,レジ情報,Register Info,,Registrierungs-Info
-Form31,Command2,閉じる,Close,,Schließen
-Form31,Command1,撤去,Remove,,Löschen
-Form31,Label1,レジ速度,Cash register speed,,Kassengeschwindigkeit
-Form31,Label1,利用回数,Number of times used,,x-mal benutzt
-Form31,Label3,レジの情報です,Register details,,Registrierungsdetails
-Form32,Form32,地震です,It's an earthquake!,,Ein Erdbeben!
-Form32,Label1,直下型大地震です,The earthquake is right below us.,,Das Erdbeben ist unter uns.
-Form32,Label1,地震です,It' an earthquake,,Ein Erdbeben!
-Form32,Command1,次へ >>,Next,,Nächstes
-Form33,Form33,通知,Notifications,,Benachrichtigungen
-Form33,Command1,次へ >>,Next,,Nächstes
-Form33,Label,全日本、本屋コンテストの時期がきました。,It's time for the National Book Store Contest!,,Es ist Zeit für den nationalen Bücherladenwettbewerb!
-Form34,Form34,営業停止,Close Shop,,Laden schließen
-Form34,Label1,営業停止,Close Shop,,Laden schließen
-Form34,Command1,閉じる,Close,,Schließen
-Form34,Label2,ゲームオーバー,Game Over,,Game Over
-Form35,Form35,強盗が来ました,A thief came,,Ein Dieb kam
-Form35,Command2,払わない,Don't pay,,Nicht zahlen
-Form35,Command1,お金を払う,Pay,,Zahlen
-Form35,Label,強盗が来ました,A thief came,,Ein Dieb kam
-Form36,Form36,店員の設定,Clerk settings,,Verkäufer-Einstellungen
-Form36,Command3,給料変更,Change salary,,Gehalt ändern
-Form36,Frame1,掃除について,Cleaning Conditions,,Säuberungsbedingungen
-Form36,Option5,よごれが20以上になったら掃除する,Clean when filth is is 20 or more,,Bei 20 oder mehr Dreck säubern
-Form36,Option4,よごれが40以上になったら掃除する,Clean when filth is is 40 or more,,Bei 40 oder mehr Dreck säubern
-Form36,Option3,よごれが60以上になったら掃除する,Clean when filth is is 60 or more,,Bei 60 oder mehr Dreck säubern
-Form36,Option2,よごれが80以上になったら掃除する,Clean when filth is is 80 or more,,Bei 80 oder mehr Dreck säubern
-Form36,Option1,掃除をしない,Do not clean,,Nicht säubern
-Form36,Command2,やめる,Stop,,Stop
-Form36,Frame2,掃除方法選択,Choose cleaning method,,Wähle Reinigungsmethode
-Form36,Option8,たくさん,Clean a lot,,Viel säubern
-Form36,Option7,ふつうに,Clean a normal amount,,Normal säubern
-Form36,Option6,すこし,Clean only a little,,Wenig säubern
-Form36,Command1,決定,OK,,OK
-Form36,Label1,能力,Ability,,Fähigkeit
-Form36,Label1,気力,Willpower,,Willenskraft
-Form36,Label1,給料,Salary,,Gehalt
-Form36,Label1,年齢,Age,,Alter
-Form36,Label1,名前,Name,,Name
-Form36,Label1,能力,Ability,,Fähigkeit
-Form36,Label1,気力,Willpower,,Willenskraft
-Form36,Label1,給料,Salary,,Gehalt
-Form36,Label1,年齢,Age,,Alter
-Form36,Label1,名前,Name,,Name
-Form36,Label3,店員の設定です ,Employee Options,,Mitarbeiter-Optionen
-Form37,Form37,1000人突破,Over 1000 People,,Über 1000 Leute
-Form37,Command1,閉じる,Close,,Schließen
-Form37,Label1,"お店に来たお客さんが1,000人を突破しました。","More than 1,000 customers have visited the store!",,"Mehr als 1000 Leute haben den Laden besucht!"
-Form38,Form38,給料変更,Change salary,,Gehalt ändern
-Form38,Command2,やめる,Abort,,Abbrechen
-Form38,Command1,決定,OK,,OK
-Form38,Label1,21万0000円,"210,000 YEN",,210.000 Yen
-Form38,Label1,給料,Salary,,Gehalt
-Form38,Label1,能力,Ability,,Fähigkeit
-Form38,Label1,年齢,Age,,Alter
-Form38,Label1,12歳,12 years old,,12 Jahre alt
-Form38,Label1,名前,Name,,Name
-Form38,Label1,気力,Energy,,Energie
-Form38,Label3,給料を変更します,Change salary,,Gehalt ändern
-Form39,Form39,お店の宣伝,Store Promotion,,Ladenwerbung
-Form39,Frame1,宣伝するメディア,Advertising,,Werbung
-Form39,Option6,ダイレクトメール,Direct Mail,,Postwerbung
-Form39,Option5,映画の前に流す,Show Ad in Theaters,,Werbung in Kinos
-Form39,Option4,テレビコマーシャル,TV Commercial,,TV-Werbung
-Form39,Option3,ホームページ制作,Online Ads,,Online-Werbung
-Form39,Option2,新聞に載せる,Place Ad in Newspaper,,Werbung in Zeitungen
-Form39,Option1,ポスターを貼る,Put Up Poster,,Poster aufstellen
-Form39,Command2,やめる,Cancel,,Abbrechen
-Form39,Command1,決定,OK,,OK
-Form39,Label3,お店の宣伝を行います ,Promote Shop,,Den Laden werben
-Form44,Form44,ダイレクトメール,Direct Mail,,Postwerbung
-Form44,Command1,やめる,Stop,,Stop
-Form44,Command2,決定,OK,,OK
-Form44,Frame1,送る数,Number to send,,Zu sendende Zahl
-Form44,Option1,通,No.,,Nummer
-Form44,Label5,残金,Balance,,Guthaben
-Form44,Label5,費用,Expenses,,Ausgaben
-Form44,Label5,資金,Funds,,Geldmittel
-Form44,Label3,ダイレクトメールを送ります ,Send direct mail,,Direktsendung senden
-Form41,Form41,お店の詳細情報,Shop's Detailed Info,,Detailierte Ladeninfo
-Form41,Frame1,パラメータ,Parameters,,Parameter
-Form41,Label1,人気,Popularity,,Popularität
-Form41,Label1,耐震度,Seismic Resistance,,seismischer Widerstand
-Form41,Label1,よごれ,Filthiness,,Schmutz
-Form41,Label1,知名度,Reputation,,Ruf
-Form41,Label1,お店規模,Store Size,,Ladengröße
-Form41,Label1,時,Hour,,Stunde
-Form41,Label2,日曜日,Sunday,,Sonntag
-Form41,Label1,日,Day,,Tag
-Form41,Label1,月,Month,,Monat
-Form41,Label1,年,Year,,Jahr
-Form41,Label1,星の数,Rating,,Bewertung
-Form41,Label1,資金,Funds,,Geldmittel
-Form41,Label1,本屋の名前,Bookstore Name,,Bücherladen-Name
-Form43,Form43,宣伝映画製作,Promotional Film Production,,Werbefilmproduktion
-Form43,Frame1,製作者,Producer,,Produzent
-Form43,Option3,有名映画監督に頼む,Hire Famous Director,,Berühmten Regisseur anheuern
-Form43,Option2,CM制作会社に頼む,Ask An Advertising Company,,Eine Werbefirma fragen
-Form43,Option1,自主制作する,Produce Independently ,,Unabhängig produzieren
-Form43,Command2,決定,OK,,OK
-Form43,Command1,やめる,Cancel,,Abbrechen
-Form43,Label5,資金,Funds,,Geldmittel
-Form43,Label5,費用,Expenses,,Ausgaben
-Form43,Label5,残金,Balance,,Guthaben
-Form43,Label3,宣伝映画を制作します ,Make Promotional Film,,Einen Werbefilm drehen
-Form42,Form42,テレビコマーシャル,Television Commerical ,,Fernsehwerbung
-Form42,Frame1,製作者,Producer,,Produzent
-Form42,Option3,有名映画監督に頼む,Hire Famous Director,,Berühmten Regisseur anheuern
-Form42,Option2,CM制作会社に頼む,Ask An Advertising Company,,Eine Werbefirma fragen
-Form42,Option1,自主制作する,Produce Independently ,,Unabhängig produzieren
-Form42,Command2,決定,OK,,OK
-Form42,Command1,やめる,Cancel,,Abbrechen
-Form42,Label5,資金,Funds,,Geldmittel
-Form42,Label5,費用,Expenses,,Ausgaben
-Form42,Label5,残金,Balance,,Guthaben
-Form42,Label3,テレビコマーシャル制作  ,Create Television Commercial,,Fernsehwerbung erstellen
-Form40,Form40,ポスターを貼る,Put Up Poster,,Poster aufstellen
-Form40,Command1,やめる,Cancel,,Abbrechen
-Form40,Command2,決定,OK,,OK
-Form40,Frame1,貼る枚数,Qty to put up:,,Wieviele aufstellen:
-Form40,Option1,枚,Posters,,Poster
-Form40,Label5,残金,Balance,,Guthaben
-Form40,Label5,費用,Expenses,,Ausgaben
-Form40,Label5,資金,Funds,,Geldmittel
-Form40,Label3,ポスターを貼ります  ,Put Up Posters,,Poster aufstellen
-Form45,Form45,お店のサービス,Manager's Special,,Manager-Spezial
-Form45,Frame3,ポスター取り扱い,Poster Management,,Poster-Management
-Form45,Option5,取り扱う,Handle,,Bearbeiten
-Form45,Option6,取り扱わない,Do not handle,,Nicht bearbeiten
-Form45,Frame2,宅配便受付,Accept Package Delivery,,Paketlieferung akzeptieren
-Form45,Option4,受付しない,Do Not Accept,,Nicht akzeptieren
-Form45,Option3,受付する,Accept Package Delivery,,Paketlieferung akzeptieren
-Form45,Frame1,写真現像受付,Photo Development Desk,,Fotoentwicklung
-Form45,Option2,受付しない,Not accepting reservations,,Reservierungen werden nicht akzeptiert
-Form45,Option1,受付する,Accepting reservations,,Reservierungen akzeptiert
-Form45,Frame4,図書券の取り扱い,Handle Coupons,,Coupons bearbeiten
-Form45,Option8,取り扱わない,Do not handle,,Nicht bearbeiten
-Form45,Option7,取り扱う,Handle,,Bearbeiten
-Form45,Label1,ポスター1枚につき1000円の利益です。,1000 Yen Profit Per Poster / Month,,1000 Yen Profit je Poster / Monat
-Form45,Label1,費用 月 2万円,2000 Yen Profit Per Poster / Month,,2000 Yen Profit je Poster / Monat
-Form45,Label1,費用 月 2万円,Costs 20000 Yen Per Month,,Kostet 20000 Yen pro Monat
-Form45,Label1,配達物1つにつき1000円の利益です。,10000 yen profit per delivery,,10000 Yen Profit je Lieferung
-Form45,Label1,費用 月 2万円,Cost 20000 Yen per month,,Kostet 20000 Yen pro Monat
-Form45,LAbel1,フィルム1本につき800円の利益です。,800 yen profit per film,,800 Yen Profit je Film
-Form45,Label1,費用 月 2万円,Cost 20000 Yen per month,,Kostet 20000 Yen pro Monat
-Form45,Label1,図書券 1枚につき 500円の利益です。,500 yen profit per book voucher,,500 Yen Profit je Buchgutschein
-Form45,Command2,キャンセル,Cancel,,Abbrechen
-Form45,Command1,決定,OK,,OK
-Form45,Label3,お店のサービスです  ,Store's Services,,Ladenservices
-Form46,Form46,店員から,Store Clerk,,Ladenverkäufer
-Form47,Form47,被害報告,Damage Report,,Schadensbericht
-Form47,Command1,閉じる,Close,,Schließen
-Form47,Label,被害報告です ,Damage Report,,Schadensbericht
-Form48,Form48,業界新聞,Industry Newspaper,,Industriezeitung
-Form48,Label8,8月55日,August 55th,,55. August
-Form48,Label6,最近の業界,Right now in the business world,,Jetzt in der Businesswelt
-Form48,Label5,今月のお店,Store of the month,,Laden des Monats
-Form48,Label4,雑誌TOP10,Top 10 Magazines,,Top 10 Zeitschriften
-Form48,Label2,書籍TOP10,Top 10 Books,,Top 10 Bücher
-Form48,Command1,閉じる,Close,,Schließen
-Form48,Label1,読みたい見出しを押してください,Click the headlines you want to read,,"Klicke die Schlagzeilen an, die du lesen möchtest"
-Form48,Label3,業界新聞です,This is the Business World News,,Das sind die Business World News
-Form50,Form50,雑誌売り上げトップ10,Top 10  Popular Magazines,,Top 10 beliebteste Zeitschriften
-Form50,Label4,ほんのなめ,Name of Book,,Name des Buches
-Form50,Label5,円,Yen,,Yen
-Form50,Label1,価格,Price,,Preis
-Form50,Label1,雑誌名,Magazine Title,,Zeitschrift-Titel
-Form50,Label1,順位,Ranking,,Platzierung
-Form50,Label3,雑誌の売り上げトップ10,Top 10 Most Popuar Magazines,,Top 10 meistbeliebteste Zeitschriften
-Form49,Form49,書籍売り上げトップ10,Top 10 Most Popuar Books,,Top 10 meistbeliebteste Bücher
-Form49,Label5,円,Yen,,Yen
-Form49,Label4,ほんのなめ,,Just lick (??) - might be placeholder,
-Form49,Label1,順位,Ranking,,Platzierung
-Form49,Label1,雑誌名,Magazine Name,,Zeitschrift-Name
-Form49,Label1,価格,Price,,Preis
-Form49,Label3,書籍の売り上げトップ10  ,Top 10 Most Popular Books,,Top 10 beliebteste Bücher
-Form53,Form53,トップニュース,Top News,,Top News
-Form53,Label3,トップニュース ,Top News,,Top News
-Form51,Form51,今月のお店,Store of the Month,,Laden des Monats
-Form51,Label3,今月のお店,Store of the Month,,Laden des Monats
-Form52,Form52,最近の業界,Recent Industry News,,Aktuelle Branchennachrichten
-Form52,Label3,最近の業界,Recent Industry News,,Aktuelle Branchennachrichten
-Form54,Form54,星の数アップ,Rating Increase,,Bewertungssteigerung
-Form54,Label1,全日本本屋協会,All Japan Booksellers Association,,Nationaler Verband der Buchhändler
-Form54,Label1,の数が1つふえました。,for additional stars,,für zusätzliche Sterne
-Form54,Label1,プの条件を満たしたため、星,becuase it fulfills the requirements,,weil es die Anforderungen erfüllt
-Form54,Label1,あなたのお店は、星の数アッ,Your store got another star,,Dein Laden hat einen weiteren Stern bekommen
-Form54,Command1,閉じる,Close,,Schließen
-Form54,Label3,星の数がアップしました,Rating Increase,,Bewertungssteigerung
-Form55,Form55,設定,Settings,,Einstellungen
-Form55,Frame1,月末などのウインドウを自動で閉じる速度,Speed of Store Closing,,Geschwindigkeit der Ladenschließung
-Form55,Check2,自動では閉じない,Don't Close Automatically,,Nicht automatisch schließen
-Form55,Check1,店員からのメッセージの表示,Show messages from employees,,Zeige Nachrichten von Angestellten
-Form55,Command2,キャンセル,Cancel,,Abbrechen
-Form55,Command1,決定,OK,,OK
-Form55,Label3,設定,Settings,,Einstellungen
-Form56,Form56,サービス備品,Service equipment,,Service-Ausrüstung
-Form56,Command1,設置,Set up,,Setup
-Form56,Command2,キャンセル,Cancel,,Abbrechen
-Form56,Label1,価格,Price,,Preis
-Form56,Label2,内容,Content,,Inhalt
-Form56,Label,円,Yen,,Yen
-Form56,Label3,サービス備品設置,Service equipment installation,,Service-Ausrüstungsinstallation
-Form57,Form57,サービス備品情報,Service equipment info,,Service-Ausrüstungsinfo
-Form57,Command2,閉じる,Close,,Schließen
-Form57,Command1,撤去,Withdraw,,Entziehen
-Form57,Label1,価格,Price,,Preis
-Form57,Label1,内容,Contents,,Inhalt
-Form57,Label3,サービス備品の情報です,Service Equipment Info,,Service-Ausrüstung-Info
-Form58,Form58,グランプリ獲得,Adquisition Grand Prix,,Gewinne den Grand-Prix
-Form58,Command1,閉じる,Close,,Schließen
-Form58,Label1,ます。,,,
-Form58,Label1,賞金1000万円とこの表彰状をおくります,we will send you a 10 million yen prize and this certificate,,Wir senden dir einen Preis von 10 Mio. Yen und dieses Zertifikat
-Form58,Label1,ストでグランプリを獲得しましたので,in the All Japan Book Store Contest,,im Nationalen Buchladenwettbewerb
-Form58,Label1,あなたのお店は全日本本屋コンテ,Your store has won the Grand Prix,,Dein Laden hat den Grand Prix gewonnen!
-Form58,Label1,グランプリ,Grand Prix,,Grand Prix
-Form58,Font,ＭＳ 明朝,MS Mincho,,MS Mincho
-Form58,Label1,全日本本屋協会,Japan National Bookstore Association,,Japanischer Verband der Buchhändler
-Form58,Label3,グランプリ獲得 ,Grand Prix Winner,,Grand-Prix-Sieger
-Form59,Form59,今月の入荷スケジュール,This month's arrivals,,Diesmonatige Ankünfte
-Form59,label1,合計費用,Expenses,,Ausgaben
-Form59,Label1,入荷数,Arrivals,,Ankünfte
-Form59,Label1,月,Month,,Monat
-Form59,Label1,入荷名,Arrival Name,,Ankunftsname
-Form61,Form61,保険がおりました,Insurance Money Received,,Versicherungsgeld erhalten
-Form61,Command1,閉じる,Close,,Schließen
-Form61,Label3,保険金がおりました,Insurance Money Received,,Versicherungsgeld erhalten
-Form62,Form62,立ち読み対策,Prevention for reading without buying,,Verhindere das Lesen ohne Kauf
-Form62,Command2,やめる,Cancel,,Abbrechen
-Form62,Command1,決定,OK,,OK
-Form62,Option3,これにする,Choose this,,Dies auswählen.
-Form62,Label1,すべての本を、立ち読みできないようにする,Prohibit reading in-store without buying,,Verbiete das Lesen der Bücher im Laden ohne sie zu kaufen
-Form62,Option2,これにする,Choose this,,Dies auswählen.
-Form62,Label1, 一冊だけ立読みできて、他はできないようにする。,Allow customers to read up to 1 book in-store before asking them to pay.,,"Erlaube es Kunden, ein Buch gratis zu lesen, bevor sie zahlen müssen."
-Form62,Option1,これにする,Choose this,,Dies auswählen.
-Form62,Label1,  すべての本を自由に読めるようにする。,Allow customers to read anything at will,,"Erlaube es Kunden, alles nach Belieben zu lesen"
-Form62,Label3,お店の立読み対策を決定します ,Select store policy about reading books in-store,,Wähle Ladenbeschluss über das Lesen der Bücher im Laden
-Form63,Form63,お客さんの文句,Customer Complaints,,Kundenbeschwerden
-Form63,Command1,閉じる,Close,,Schließen
-Form63,Label1,この前買った本が、汚かったぞ！,The book I bought earlier was filthy!,,"Das Buch, welches ich vorher gekauft habe, ist dreckig!"
-Form63,Label2,立読み対策をしてください,Take measures so that people don't read without paying,,"Tu etwas dagegen, dass Kunden ohne Zahlen die Bücher lesen."
-Form63,Label3,お客さんが文句を言っています ,A customer is complaining,,Ein Kunde beschwert sich
-Form64,Form64,消えました,The fire is out,,Das Feuer ist ausgegangen
-Form64,Label1,火事は、すべてを焼きつくし鎮火しました・・・,"The fire burned everything, then died out...",,Das Feuer hat alles zerstört und ist ausgegangen…
-Form64,Command1,閉じる,Close,,Das war knapp!
-Form65,Form65,火事発見,Fire!,,Feuer!
-Form65,Command1,閉じる,Close,,Das war knapp!
-Form65,Label1,近所の住民が火事を発見しました！,Your neighbors have spotted a fire!,,Die Nachbarn haben ein Feuer entdeckt!
-Form66,Form66,消えました,Fire went out...phew,,Feuer wurde gelöscht...puh
-Form66,Command1,閉じる,Close,,Schließen
-Form66,Label1,消防車を呼び火事は鎮火しました。,Fire trucks were called and the fire was extinguished.,,Feuerwehrwägen wurden gerufen und das Feuer wurde gelöscht.
-MDIForm1,MMenu,メニュー(&M),Menu (M),,Menü (M)
-MDIForm1,MNewGame,新しくはじめる(&N),Start New (N),,Neues Spiel starten (N)
-MDIForm1,MSave,ゲームの保存(&S),Save Game (S),,Speichern (S)
-MDIForm1,MLoad,ゲームの読込(&L),Load Game (L),,Spiel laden (L)
-MDIForm1,MEnd,ゲーム終了(&E),Quit Game (E),,Spiel verlassen (E)
-MDIForm1,MAction,行動(&A),Action (A),,Aktion (A)
-MDIForm1,MNyuukaH,入荷変更(&H),Change Books In Stock (H),,Ändere die Bücher auf Lager (H)
-MDIForm1,MBookIn,入荷雑誌変更(&I),Change Magazines In Stock (L),,Ändere die Zeitschriften auf Lager (L)
-MDIForm1,MSysoseki,書籍を入荷(&N),Books in Stock (N),,Bücher auf Lager (N)
-MDIForm1,MTenin,店員関係(&M),Employee Relationship (T),,Mitarbeiterverhältnis (T)
-MDIForm1,MTeen,店員を雇用(&T),Hire Employee (T),,Mitarbeiter einstellen (T)
-MDIForm1,MKaiko,店員を解雇(&O),Fire Employee (O),,Mitarbeiter feuern (O)
-MDIForm1,MTeninSetup,店員の設定(&S),Employee Settings (S),,Mitarbeitereinstellungen (S)
-MDIForm1,MEigyouHousin,お店の営業方針(&E),Store Sales Plan (E),,Laden-Verkaufsplan (E)
-MDIForm1,MEigyou,お店のサービス内容(&E),Store Services (E),,Ladenservices (E)
-MDIForm1,Menu MTatiyomi,立ち読み対策(&T),Browsing Policy (T),,Die Regeln durchsuchen (T)
-MDIForm1,MHoken,保険に入る(&H),Get Insurance (H),,Versicherung bekommen (H)
-MDIForm1,MSouzi,お店を掃除する(&S),Clean the Store (S),,Den Laden reinigen (S)
-MDIForm1,MSenden,お店の宣伝をする(&S),Advertise the Store (S),,Für den Laden werben (S)
-MDIForm1,MTakarakuzi,宝くじを買う(&T),Set up Lottery (T),,Lotterie einrichten (T)
-MDIForm1,MGinkou,銀行へ行く(&G),Go to the Bank (G),,Zur Bank gehen (G)
-MDIForm1,MTaisin,耐震工事をする(&T),Earthquake Proofing (T),,Erdbebenschutz (T)
-MDIForm1,MSyoubou,消防車を呼ぶ(&S),Call Fire Dept (S),,Feuerwehr rufen (S)
-MDIForm1,MKibo,お店の規模拡大(&K),Expand the Store (K),,Erweitere den Laden (K)
-MDIForm1,MInformation,情報(&I),Information (I),,Information (I)
-MDIForm1,MZaiko,在庫(&Z),Inventory (Z),,Inventar (Z)
-MDIForm1,MZssiInfo,雑誌の在庫(&Z),Magazine Inventory (Z),,Zeitschriftinventar (Z)
-MDIForm1,MSyosekiZaiko,書籍の在庫(&S),Book Inventory (S),,Bücherinventar (S)
-MDIForm1,MGurahu,グラフ(&G),Graph (G),,Diagramm (G)
-MDIForm1,MRiekiGurahu,お店の利益グラフ(&R),Store Profit Graph (R),,Ladenprofitdiagramm (R)
-MDIForm1,MBookGurahu,本の売り数グラフ(&G),Book Sales Graph (G),,Buchverkaufsdiagramm (G)
-MDIForm1,MGuest,お客さんの意見(&G),Customer Opinion (G),,Kundenmeinung (G)
-MDIForm1,MGRead,業界新聞を読む(&R),Read Biz Paper (R),,Wirtschaftszeitung lesen (R)
-MDIForm1,MNyuuka,入荷スケジュール(&N),Arrivals Schedule (N),,Ankunftsplan (N)
-MDIForm1,MTinfor,店員情報(&T),Employee Info (T),,Mitarbeiter-Info (T)
-MDIForm1,MBookInfo,お店の利益(&S),Store Profit (S),,Ladenprofit (S)
-MDIForm1,MBookSyousai,お店の詳細情報(&S),Detailed Store Info (S),,Detailierte Ladeninfo (S)
-MDIForm1,MWindow,ウインドウ(&W),Window (W),,Fenster (W)
-MDIForm1,MSwitch,ウインドウ切り替え(&W),Window Switching (W),,Fenster wechseln (W)
-MDIForm1,MSetup,設定(&S),Settings (S),,Einstellungen (S)
-MDIForm1,MSound,効果音の設定(&S),Sound Settings (S),,Soundeinstellungen (S)
-MDIForm1,MSoundYes,鳴らす(&Y),Ring (Y),,Klingeln (Y)
-MDIForm1,MSoundNo,鳴らさない(&N),Don't ring (N),,Nicht klingeln (N)
-MDIForm1,MKabegami,壁紙の設定(&K),Background Settings (K),,Hintergrundeinstellungen (K)
-MDIForm1,MKabeTitle,タイトル(&T),Title (T),,Titel (T)
-MDIForm1,MKAbeMoyou,模様(&M),Design (M),,Design (M)
-MDIForm1,MKabeNothing,なし(&N),None (N),,Nichts (N)
-MDIForm1,MSSetup,設定(&S),Settings (S),,Einstellungen (S)
-MDIForm1,MGameSpeed,ゲームスピード(&G),Game Speed (G),,Geschwindigkeit (G)
-MDIForm1,MHelp,ヘルプ(&H),Help (H),,Hilfe (H)
-MDIForm1,MHelpGame,ヘルプ(&H),Help (H),,Hilfe (H)
-MDIForm1,MHelpVersion,バージョン情報(&A)...,Version Info (A),,Versionsinfo (A)
+magazines",,Ändere die Menge aller kürzlich bestellten Magazine,Schimb? cantitatea la toate revistele ajunse recent
+Form6,Label5,在庫数,Available Inventory,,Verfügbarer Inventarplatz,Inventar Disponibil
+Form6,Label5,資金,Funding,,Finanzierung,Finan?are
+Form6,Label5,発行部数,Number of Printed Copies,,Anzahl der gedruckten Kopien,Num?r de Copii Printate
+Form6,Label5,入荷数,Arrival count,,Ankunftszahl,Num?rul de sosiri
+Form6,Label5,メモ,Memo,,Memo,Memo
+Form6,Label5,発売日,Release Date,,Erscheinungsdatum,Data lans?rii
+Form6,Label5,雑誌名,Book Title,,Buchtitel,Titlul C?r?ii
+Form6,Label10,0万,0k,,0k,0k
+Form6,Label10,10万,100k,,100k,100k
+Form6,Label10,0部,0 Copies,,Keine Kopien,0 Copii
+Form6,Label10,20万,200k,,200k,200k
+Form6,Label6,0冊,0 Books,,0 Bücher,0 C?r?i
+Form6,Label2,メモ,Memo,,Memo,Memo
+Form6,Label2,発売日,Release Date,,Erscheinungsdatum,Data lans?rii
+Form6,Label10,仕入値,Purchase Price,,Kaufpreis,Pre? de Cump?rare
+Form6,Label12,売り値,Selling Price,,Verkaufspreis,Pre? de V�nzare
+Form6,Label12,入荷数,Number of Arrivals,,Anzahl der Ankünfte,Num?rul de sosiri
+Form6,Label12,雑誌名,Magazine Name,,Magazin-Name,Numele Revistei
+Form7,Form7,店員雇用,Employee Info,,Mitarbeiter-Info,Info Angaja?i
+Form7,Command2,雇用,Hire,,Einstellen,Angajeaz?
+Form7,Command1 ,閉じる,Close,,Schließen,�nchide
+Form7,Label,0歳,0 Years Old,,0 Jahre alt,0 Ani Vechime
+Form7,Label1,年齢,Age,,Alter,V�rst?
+Form7,Label1,0円,0 Yen,,0 Yen,0 Yen
+Form7,Label1,給料,Salary,,Gehalt,Salariu
+Form7,Label1,能力,Skill level,,Fähigkeitslevel,Nivel de pricepere
+Form7,Label1,あああ,AAA,,AAA,AAA
+Form7,Label3,店員を雇用します,Now hiring store clerks,,Wir stellen jetzt Ladenverkäufer ein,Acum angajeaz? casieri
+Form7,Label1,名前,Name,,Name,Nume
+Form8,Form8,お客さん,Guest,,Gast,Oaspete
+Form8,Label5,強盗,Thief,,Dieb,Ho?
+Form8,Label1,名前,Name,,Name,Nume
+Form8,Label,謎,Mystery,,Geheimnis,Mister
+Form8,Label1,年齢,Age,,Alter,V�rst?
+Form8,Label,??歳,?? years old,,?? Jahre alt,?? ani
+Form8,Label,強盗です！,Robbery!,,Raub!,Jaf!
+Form8,Label1,気力,Effort,,Aufwand,Efort
+Form8,Label1,能力,Skill level,,Fähigkeitslevel,Nivel de pricepere
+Form8,Label4,店員の情報,Employee Info,,Mitarbeiter-Info,Info Angaja?i
+Form8,Label1,給料,Salary,,Gehalt,Salariu
+Form8,Label1,年齢,Age,,Alter,V�rst?
+Form8,Label1,名前,Name,,Name,Nume
+Form8,Label2,掃除業者の情報,Janitor Info,,Hausmeister-Info,Info �ngrijitor
+Form8,Label1,年齢,Age,,Alter,V�rst?
+Form8,Label1,名前,Name,,Name,Nume
+Form8,Label3, お客さんの情報,Customer Info,,Kunden-Info,Info Client
+Form8,Label1,名前,Name,,Name,Nume
+Form8,Label1,年齢,Age,,Alter,V�rst?
+Form8,Label1,好きな本,Favorite book,,Lieblingsbuch,Carte preferat?
+Form8,Label1,満足度,Satisfaction level,,Zufriedenheit,Nivel de satisfacere
+Form8,Label1,お店に来た回数,# of visits,,# von Besuchen,# de vizite
+Form9,Form9,レジ選択,Register Selection,,Registerauswahl,Selectare Registru
+Form9,Command2,購入,Purchase,,Kauf,Achizi?ionare
+Form9,Command1,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form9,Label1,レジ速度,Cashier speed,,Kassiergeschwindigkeit,Vitez? casier
+Form9,Label1,価格,Price,,Preis,Pre?
+Form9,Label3,レジを選択します ,Choose cashier,,Wähle den Kassierer aus,Alege casier
+Form10,Form10,お客さんの意見,Customer Opinion,,Kundenmeinung,Opinia Clientului
+Form10,Command1,閉じる,Close,,Schließen,�nchide
+Form12,Form12,店員解雇,Employee Dismissal,,Kündigung von Mitarbeitern,Concedierea Angajatului
+Form12,Command2,解雇する,Dismiss employee,,Mitarbeiter kündigen,Concediaz? Angajatul
+Form12,Command1,やめる,Quit,,Beenden,P?r?se?te
+Form12,Label1,気力,Willpower,,Willenskraft,Voin??
+Form12,Label1,名前,Name,,Name,Nume
+Form12,Label,12歳,12 years old,,12 Jahre alt,12 ani
+Form12,Label1,年齢,Age,,Alter,V�rst?
+Form12,Label1,能力,Ability,,Fähigkeit,Abilitate
+Form12,Label1,給料,Salary,,Gehalt,Salariu
+Form12,Label1,21万0000円,210k Yen,,210k Yen,210k Yen
+Form12,Label3,店員解雇,Fired Employees,,Gefeuerte Mitarbeiter,Angaja?i Concedia?i
+Form13,Form13,店員情報,Employee Info,,Mitarbeiter-Info,Info Angajat
+Form13,Label1,給料,Salary,,Gehalt,Salariu
+Form13,Label1,能力,Ability,,Fähigkeit,Abilitate
+Form13,Label1,気力,Energy,,Energie,Energie
+Form13,Label1,年齢,Age,,Alter,V�rst?
+Form13,Label1,名前,Name,,Name,Nume
+Form14,Form14,お店の月々利益表,Monthly Profit,,Monatlicher Profit,Profit Lunar
+Form14,Option3,毎年,Per year,,Jährlich,Pe an
+Form14,Option2,毎月,Per month,,Monatlich,Pe lun?
+Form14,Option1,毎日,Per day,,Täglich,Pe zi
+Form14,Label1,テナント代,Tenant fee,,Mietergebühr,Onorariu chiria?
+Form14,Label1,サービス系,Service System,,Servicesystem,Sistem de Serviciu
+Form14,Label1,保険関係,Insurance,,Versicherung,Asigurare
+Form14,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt,Salariul Angajatului
+Form14,Label1,お店の備品,Store's Fixtures,,Laden-Möbel,Mobila Libr?riei
+Form14,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher,Reviste ?i C?r?i
+Form14,Label1,その他,The rest,,Andere,Restul
+Form14,Label1,合計,Total,,Insgesamt,Total
+Form14,Label1,合計,Total,,Insgesamt,Total
+Form14,Label1,支出,Expenses,,Ausgaben,Cheltuieli
+Form14,Label1,収入,Income,,Einkommen,Venit
+Form15,Form15,月末です,End of the month,,Ende des Monats,Sf�r?itul lunii
+Form15,Label1,収入,Income,,Einkommen,Venit
+Form15,Label1,支出,Expenses,,Ausgaben,Cheltuieli
+Form15,Label1,合計,Total,,Insgesamt,Total
+Form15,Label1,合計,Total,,Insgesamt,Total
+Form15,Label1,その他,Other,,Andere,Alta
+Form15,Label1,雑誌と書籍,Magazines and Books,,Magazine und Bücher,Reviste ?i C?r?i
+Form15,Label1,お店の備品,Store's Fixtures,,Laden-Möbel,Mobila Libr?riei
+Form15,Label1,店員の給料,Employee's Salary,,Mitarbeitergehalt,Salariul Angajatului
+Form15,Label1,保険関係,Insurance,,Versicherung,Asigurare
+Form15,Label1,サービス系,Service System,,Servicesystem,Sistem de Serviciu
+Form15,Label1,テナント代,Tenant fee,,Mietergebühr,Onorariu chiria?
+Form15,Command1,閉じる,Close,,Schließen,�nchide
+Form15,Label1,1997年8月末,End of August 1997,,Ende August 1997,Sf�r?itul lui August 1977
+Form15,Font,ＭＳ Ｐゴシック,MS PGothic,,MS PGothic,MS Pgothic
+Form15,Label1,今月の利益,Monthly Profit,,Monatlicher Profit,Profit Lunar
+Form15,Label1,今月売った本の数,Books sold this month,,Bücher in diesem Monat verkauft,C?r?i v�ndute �n aceast? lun?
+Form15,Label1,でした。,the red,,das Rot,ro?ul
+Form15,Label1,赤字,was in,,war in,era �n
+Form15,Label1,今月は,This month,,Dieser Monat,Aceast? lun?
+Form18,Form18,保険加入,Purchase Insurance,,Versicherung kaufen,Cump?rare Asigurare
+Form18,Frame3,被害保険,Injury insurance,,Krankenversicherung,Asigurare medical?
+Form18,Option5,加入する,Become member,,Mitglied werden,Devino membru
+Form18,Option6,加入しない,Do not become member,,Nicht Mitglied werden,Nu deveni membru
+Form18,Label4,費用 月々5万円,"Monthly costs: 50,000 Yen",,"Monatliche Kosten: 50,000 Yen",Cost lunar: 50.000 de Yen
+Form18,Frame2,地震保険,Earthquake Insurance,,Erdbebenversicherung,Asigurare Cutremur
+Form18,Option3,加入する,Become member,,Mitglied werden,Devino membru
+Form18,Option4,加入しない,Do not become member,,Nicht Mitglied werden,Nu deveni membru
+Form18,Label2,費用 月々3万円,"Monthly costs: 30,000 Yen",,"Monatliche Kosten: 30,000 Yen",Cost lunar: 30.000 de Yen
+Form18,Frame1,火災保険,Fire / Home Insurance,,Hausversicherung,Asigurare Foc / Cas?
+Form18,Option2,加入しない,Do not become member,,Nicht Mitglied werden,Nu deveni membru
+Form18,Option1,加入する,Become member,,Mitglied werden,Devino membru
+Form18,Label1,費用 月々3万円,"Monthly costs: 30,000 Yen",,Monatliche Kosten: 30.000 Yen,Cost lunar: 30.000 de Yen
+Form18,Command2,決定,Confirm,,Bestätigen,Confirm?
+Form18,Command1,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form18,Label5,すべての保険費用を合計すると月々円かかります。,Total costs per month:,,Monatliche Kosten insgesamt:,Cost total pe lun?:
+Form18,Label3,どの保険に入りますか,Current plan,,Momentaner Plan,Plan curent
+Form19,Form19,耐震工事,Seismic Retrofitting,,seismische Nachrüstung,Modernizare seismic?
+Form19,Option2,ふつうに,Ordinarily,,Gewöhnlich,Ordinar
+Form19,Option1,すこし,A little bit,,Ein bisschen,Pu?in
+Form19,Frame2,費用計算,Calculate costs,,Kosten berechnen,Calculeaz? costuri
+Form19,Label1,円,Yen,,Yen,Yen
+Form19,Label1,円,Yen,,Yen,Yen
+Form19,Label1,円,Yen,,Yen,Yen
+Form19,Label1,残金,Balance:,,Guthaben,Balan??:
+Form19,Label1,掃除費用,Cleaning fee,,Reinungskosten,Tax? cur??enie
+Form19,Label1,現在資金,Current funding,,aktuelle Finanzierung,Finan?are curent?
+Form19,Command4,掃除する,Clean up,,Aufräumen,Cur???
+Form19,Command3,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form19,Label2,掃除方法選択,Cleaning method,,Aufräummethode,Metod? de cur??are
+Form19,Label2,掃除を行います,Perform cleaning,,Reinigen,Execut? cur??ate
+Form19,Frame3,現在耐震度,Current Seismic Resistance ,,Momentaner seismischer Widerstand,Rezisten?? Seismic? Curent?
+Form19,Label1,耐震度,Seismic Resistance ,,seismischer Widerstand,Rezisten?? Seismic?
+Form19,Command1,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form19,Command2,工事する,Start construction,,Baustelle starten,�ncepe construc?ie
+Form19,Frame1,費用計算,Calculate costs,,Kosten berechnen,Calculeaz? costuri
+Form19,Label1,現在資金,Available funds,,Verfügbare Geldmittel,Finan?are disponibil?
+Form19,Label1,工事費用,Construction costs,,Baustellkosten,Costuri construc?ie
+Form19,Label1,残金,Renovation costs,,Renovierungskosten,Costuri renovare
+Form19,Label,円,Yen,,Yen,Yen
+Form19,Label,円,Yen,,Yen,Yen
+Form19,Label,円,Yen,,Yen,Yen
+Form19,Label3,耐震工事を行います,Seismic Retrofitting,,seismische Nachrüstung,Modernizare Seismic?
+Form20,Form20,備品情報,Equipment Info,,Ausrüstungsinfo,Info Echipament
+Form20,Command3,燃やす,Burn,,Brennen,Arde
+Form20,Command1,撤去,Remove,,Entfernen,�nl?tur?
+Form20,Command2,閉じる,Close,,Schließen,�nchide
+Form20,Label1,利用回数,Number of times used,,x-mal benutzt,Num?rul de utiliz?ri
+Form20,Label1,最大収録,Maximum Recording,,Maximale Aufnahme,�nregistrare Maxim?
+Form20,Label3,備品の情報です,Equipment Info,,Ausrüstungsinfo,Info Echipament
+Form21,Form21,書籍を入荷,Receive Books,,Bücher erhalten,Prime?te C?r?i
+Form21,Command2,書籍TOP10,Top 10 Books,,Top 10 Bücher,Top 10 C?r?i
+Form21,Frame2,すべて売れたと,When all items are sold,,Wenn alle Artikel verkauft sind,C�nd toate produsele sunt v�ndute
+Form21,Label5,仕入値,Purchase price,,Kaufpreis,Pre? de cump?rare
+Form21,label5,売り値,Sale price,,Verkaufspreis,Pre? de v�nzare
+Form21,label5,利益,Profit,,Profit,Profit
+Form21,label6,0円,0 Yen,,Yen,0 Yen
+Form21,label6,0円,0 Yen,,Yen,0 Yen
+Form21,label6,0円,0 Yen,,Yen,0 Yen
+Form21,command3,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form21,frame1,売り切れたら,When sold out,,Wenn ausverkauft,C�nd v�ndut
+Form21,option2,売り切れてもそのまま,Do not restock,,Nicht auffüllen,Nu restoca
+Form21,option1,売り切れたら再度入荷する,Restock,,Auffüllen,Restoca
+Form21,command1,入荷する,Receive Books,,Bücher erhalten,Prime?te C?r?i
+Form21,Label5,すべての書籍の入荷数を変更,Change number of books,,Anzahl der Bücher verändern,Schimb? num?rul de c?r?i
+Form21,Label5,資金,Funding,,Finanzierung,Finan?are
+Form21,Label5,在庫数,Inventory count,,Inventarplatz,Num?r de inventar
+Form21,Label5,入荷数,Number of incoming books,,Anzahl der ankommenden Bücher,Num?r de c?r?i venind
+Form21,Label5,メモ,Memo,,Memo,Memo
+Form21,Label5,書籍名,Book title,,Buchtitel,Titlul c?r?ii
+Form21,Label2,入荷数,Qty in Stock,,Menge auf Lager,Cantitate �n Stoc
+Form21,Label2,売り値,Selling Price,,Verkaufspreis,Pre? de V�nzare
+Form21,Label10,仕入値,Purchase price,,Kaufpreis,Pre? de cump?rare
+Form21,Label2,ジャンル,Genre,,Genre,Gen
+Form21,Label2,メモ,Memo,,Memo,Memo
+Form21,Label2,書籍名,Book title,,Buchtitel,Titlul c?r?ii
+Form21,Label2,入荷決定してから 3日後に本が届きます>>,Book will arrive in 3 days,,Buch wird in 3 Tagen ankommen,Cartea va ajunge �n 3 zile
+Form21,label6,0冊,0 books,,0 Bücher,0 c?r?i
+Form22,Form22,全日本 本屋コンテスト,National Bookstore Competition,,Nationaler Bücherladenwettbewerb,Competi?ia Na?ional? de Libr?rii
+Form22,Command1,終了,The end,,Das Ende,Sf�r?it
+Form22,Label2,備品設備賞,Furnishing Award,,Möbilierungsauszeichnung,Premiu de Mobilare
+Form22,Label3,97年上半期コンテスト,First half of 1997 Contest,,Erste Hälfte des 1997'er Wettbewerbs,Prima jum?tate a Competi?iei 1997
+Form22,Label2,粗悪賞,Worst Award,,Schlechteste Auszeichnung,Cel Mai Prost Premiu
+Form22,Label2,努力賞,Good Effort Award,,Hoher-Aufwand-Auszeichnung,Premiul de Efort
+Form22,Label2,本売上賞,Best Sales Award,,Höchste-Verkaufszahlen-Auszeichnung,Premiul de Cele Mai Bune V�nz?ri
+Form22,Label2,清掃賞,Cleanliness Award,,Sauberkeitsauszeichnung,Premiul de Cur??enie
+Form22,Label2,グランプリ,Grand Prix,,Grand Prix,Grand Prix
+Form17,Form17,雑誌の在庫,Magazine Inventory,,Zeitschrift-Inventar,Inventar Reviste
+Form17,Label1,利益,Profit,,Profit,Profit
+Form17,Label1,雑誌名,Magazine Name,,Zeitschrift-Name,Numele Revistei
+Form17,Label1,在庫数,Inventory count,,Inventarzahl,Num?r inventar
+Form17,Label1,前回売上,Previous Sales,,Vorhergehende Verkaufszahlen,V�nz?ri Anterioare
+Form23,Form23,書籍の在庫,Book stock,,Bücherlager,Stoc c?r?i
+Form23,Label1,書籍名,Book title,,Buchtitel,Titlul c?r?ii
+Form23,Label1,利益,Profit,,Profit,Profit
+Form23,Label1,在庫,Inventory count,,Inventarzahl,Num?r inventar
+Form23,Label1,売数,Number of sales,,Anzahl der Verkäufe,Num?r de v�nz?ri
+Form23,Label1,次回入荷予定,Next shipment,,Nächster Versand,Urm?toarea expediere
+Form24,Form24,銀行,Bank,,Bank,Banc?
+Form24,Frame1,借金,Loan,,Darlehen,�mprumut
+Form24,Label1,日,Day,,Tag,Zi
+Form24,Label1,月,Month,,Monat,Lun?
+Form24,Label1,年,Year,,Jahr,An
+Form24,Label1,日,Day,,Tag,Zi
+Form24,Label1,月,Month,,Monat,Lun?
+Form24,Label1,年,Year,,Jahr,An
+Form24,Label6,返済日,Payment Due,,Zahlung fällig am,Plat? Datorat?
+Form24,Label5,金額,Amount of $,,Anzahl der $,Sum? de $
+Form24,Command2,借金する,Take A Loan,,Ein Darlehen nehmen,F? un �mprumut
+Form24,Command1,帰る,Go Back,,Zurück,�ntoarce-te
+Form24,Label5,資金,Available funds,,Verfügbare Geldmittel,Finan?are disponibil?
+Form24,Label3,銀行です ,Bank,,Bank,Banc?
+Form25,Form25,借金,Debt,,Schulden,Datorie
+Form25,Command2,借りる,Borrow,,Leihen,�mprumut?
+Form25,Command1,やめる,Cancel,,Abbrechen,Anuleaz?
+Form25,Label1,年,Year,,Jahr,An
+Form25,Label1,月,Month,,Monat,Lun?
+Form25,Label5,返済日,Due Date,,Fälligkeitsdatum,Dat? scadent?
+Form25,Label5,返済金額 (利子20%),Amount Due (20% Interest),,fälliger Betrag (20% Zinsen),Plat? Datorat? (20% Dob�nd?)
+Form25,Label5,借金金額,Amount Borrowed,,Anzahl geliehen,Sum? �mprumutat?
+Form25,Label5,借金可能金額,Amount Borrowable,,Anzahl leihbarer Mittel,Sum? �mprumutabil?
+Form25,Label5,資金,Funding,,Finanzierung,Finan?are
+Form25,Label3,いくら借りますか ,How much to borrow?,,Wie viel leihen?,C�t de mult �mprumu?i?
+Form26,Form26,借金返済,Debt Repayment,,Schuldenrückzahlung,Repl?tire Datorie
+Form26,Command1,閉じる,Close,,Schließen,�nchide
+Form26,Label1,日 に借金した,Borrowed on,,Geliehen am,�mprumutat pe
+Form26,Label1,月,Month,,Monat,Lun?
+Form26,Label1,年,Year,,Jahr,An
+Form26,Label1,借金の返済期限がきました。,Payment past due!,,Zahlung überfallig!,Plat? Scadent?!
+Form26,Label3,借金の返済をします,Repay the debt,,Zahle die Schulden,Repl?te?te datoria
+Form27,Form27,今日は,Today is,,Heute ist,Ast?zi este
+Form27,Command1,閉じる,Close,,Schließen,�nchide
+Form27,Label3,「→」がついている雑誌を入荷しています。,Magazines with are in stock,,Zeitschriften auf Lager,Reviste ce sunt �n stoc
+Form27,Label1,年,Year,,Jahr,An
+Form27,Label1,月,Month,,Monat,Lun?
+Form27,Label1,日,Day,,Tag,Zi
+Form27,Label2,日曜日,Sunday,,Sonntag,Duminic?
+Form28,Form28,スピード変更,Change Speed,,Geschwindigkeit ändern,Schimb? viteza
+Form28,Frame1,速度,Speed,,Geschwindigkeit,Vitez?
+Form28,Command1,決定,OK,,OK,OK
+Form28,Label1,速度,Speed,,Geschwindigkeit,Vitez?
+Form28,Label3,スピードを変更します,The speed will be adjusted.,,Die Geschwindigkeit wird angepasst.,Viteza va fi ajustat?.
+Form29,Form29,書籍の売り数推移,Book Sales Trends,,Bücherverkauf-Trends,Trend-uri de V�nz?ri a C?r?ilor
+Form29,Option5,百万,Million,,Millionen,Milion
+Form29,Option6,1千万,10 Million,,10 Millionen,10 Milioane
+Form29,Option3,毎日,Daily,,Täglich,Zilnic
+Form29,Option2,毎月,Monthly,,Monatlich,Lunar
+Form29,Option1,毎年,Yearly,,Jährlich,Anual
+Form29,Label1,2百冊,200 books,,200 Bücher,200 de c?r?i
+Form29,Label1,百冊,hundred books,,Hundert Bücher,sute de c?r?i
+Form29,Label1,0冊,0 books,,0 Bücher,0 c?r?i
+Form30,Form30,お店の利益推移,Store Profit Trends,,Ladenprofit-Trends,Trend-uri de Profit a Libr?riei
+Form30,Option4,10万,100k,,100k,100k
+Form30,Option6,1千万,10 million,,10 Millionen,10 milioane
+Form30,Option5,百万,million,,Millionen,milioane
+Form30,Option3,毎日,Every day,,Jeden Tag,�n fiecare zi
+Form30,Option2,毎月,Every month,,Jeden Monat,�n fiecare lun?
+Form30,Label1,百冊,Hundred books,,Hundert Bücher,sute de c?r?i
+Form30,Label1,0円,0 Yen,,0 Yen,0 Yen
+Form30,Label1,百冊,100 books,,100 Bücher,100 de c?r?i
+Form30,Label1,2百冊,200 books,,200 Bücher,200 de c?r?i
+Form30,Option1,毎年,Every year,,Jedes Jahr,�n fiecare an
+Form31,Form31,レジ情報,Register Info,,Registrierungs-Info,Info Registru
+Form31,Command2,閉じる,Close,,Schließen,�nchide
+Form31,Command1,撤去,Remove,,Löschen,Elimin?
+Form31,Label1,レジ速度,Cash register speed,,Kassengeschwindigkeit,Vitez? cas? de marcat
+Form31,Label1,利用回数,Number of times used,,x-mal benutzt,Num?rul de utiliz?ri
+Form31,Label3,レジの情報です,Register details,,Registrierungsdetails,Detalii registru
+Form32,Form32,地震です,It's an earthquake!,,Ein Erdbeben!,Este un cutremur!
+Form32,Label1,直下型大地震です,The earthquake is right below us.,,Das Erdbeben ist unter uns.,Cutremurul este fix sub noi.
+Form32,Label1,地震です,It' an earthquake,,Ein Erdbeben!,Este un cutremur
+Form32,Command1,次へ >>,Next,,Nächstes,Urm?torul
+Form33,Form33,通知,Notifications,,Benachrichtigungen,Notific?ri
+Form33,Command1,次へ >>,Next,,Nächstes,Urm?torul
+Form33,Label,全日本、本屋コンテストの時期がきました。,It's time for the National Book Store Contest!,,Es ist Zeit für den nationalen Bücherladenwettbewerb!,Este timpul pentru Competi?ia Na?ional? de Libr?rii!
+Form34,Form34,営業停止,Close Shop,,Laden schließen,�nchide Libr?rie
+Form34,Label1,営業停止,Close Shop,,Laden schließen,�nchide Libr?rie
+Form34,Command1,閉じる,Close,,Schließen,�nchide
+Form34,Label2,ゲームオーバー,Game Over,,Game Over,Game Over
+Form35,Form35,強盗が来ました,A thief came,,Ein Dieb kam,Un ho? a venit
+Form35,Command2,払わない,Don't pay,,Nicht zahlen,Nu pl?ti
+Form35,Command1,お金を払う,Pay,,Zahlen,Pl?te?te
+Form35,Label,強盗が来ました,A thief came,,Ein Dieb kam,Un ho? a venit
+Form36,Form36,店員の設定,Clerk settings,,Verkäufer-Einstellungen,Set?ri casier
+Form36,Command3,給料変更,Change salary,,Gehalt ändern,Schimb? salariu
+Form36,Frame1,掃除について,Cleaning Conditions,,Säuberungsbedingungen,Condi?ii de Cur??at
+Form36,Option5,よごれが20以上になったら掃除する,Clean when filth is is 20 or more,,Bei 20 oder mehr Dreck säubern,Cur??? c�nd murd?ria este 20 sau mai mult
+Form36,Option4,よごれが40以上になったら掃除する,Clean when filth is is 40 or more,,Bei 40 oder mehr Dreck säubern,Cur??? c�nd murd?ria este 40 sau mai mult
+Form36,Option3,よごれが60以上になったら掃除する,Clean when filth is is 60 or more,,Bei 60 oder mehr Dreck säubern,Cur??? c�nd murd?ria este 60 sau mai mult
+Form36,Option2,よごれが80以上になったら掃除する,Clean when filth is is 80 or more,,Bei 80 oder mehr Dreck säubern,Cur??? c�nd murd?ria este 80 sau mai mult
+Form36,Option1,掃除をしない,Do not clean,,Nicht säubern,Nu cur??a
+Form36,Command2,やめる,Stop,,Stop,Stop
+Form36,Frame2,掃除方法選択,Choose cleaning method,,Wähle Reinigungsmethode,Alege metod? de cur??are
+Form36,Option8,たくさん,Clean a lot,,Viel säubern,Cur??? mult
+Form36,Option7,ふつうに,Clean a normal amount,,Normal säubern,Cur??? un nivel normal
+Form36,Option6,すこし,Clean only a little,,Wenig säubern,Cur??? doar pu?in
+Form36,Command1,決定,OK,,OK,OK
+Form36,Label1,能力,Ability,,Fähigkeit,Abilitate
+Form36,Label1,気力,Willpower,,Willenskraft,Voin??
+Form36,Label1,給料,Salary,,Gehalt,Salariu
+Form36,Label1,年齢,Age,,Alter,V�rst?
+Form36,Label1,名前,Name,,Name,Nume
+Form36,Label1,能力,Ability,,Fähigkeit,Abilitate
+Form36,Label1,気力,Willpower,,Willenskraft,Voin??
+Form36,Label1,給料,Salary,,Gehalt,Salariu
+Form36,Label1,年齢,Age,,Alter,V�rst?
+Form36,Label1,名前,Name,,Name,Nume
+Form36,Label3,店員の設定です ,Employee Options,,Mitarbeiter-Optionen,Op?iuni Angajat
+Form37,Form37,1000人突破,Over 1000 People,,Über 1000 Leute,Peste 1000 de Persoane
+Form37,Command1,閉じる,Close,,Schließen,�nchide
+Form37,Label1,"お店に来たお客さんが1,000人を突破しました。","More than 1,000 customers have visited the store!",,Mehr als 1000 Leute haben den Laden besucht!,Peste 1000 de clien?i au vizitat libr?ria!
+Form38,Form38,給料変更,Change salary,,Gehalt ändern,Schimb? salariu
+Form38,Command2,やめる,Abort,,Abbrechen,Renun??
+Form38,Command1,決定,OK,,OK,OK
+Form38,Label1,21万0000円,"210,000 YEN",,210.000 Yen,210.000 YEN
+Form38,Label1,給料,Salary,,Gehalt,Salariu
+Form38,Label1,能力,Ability,,Fähigkeit,Abilitate
+Form38,Label1,年齢,Age,,Alter,V�rst?
+Form38,Label1,12歳,12 years old,,12 Jahre alt,12 ani
+Form38,Label1,名前,Name,,Name,Nume
+Form38,Label1,気力,Energy,,Energie,Energie
+Form38,Label3,給料を変更します,Change salary,,Gehalt ändern,Schimb? salariu
+Form39,Form39,お店の宣伝,Store Promotion,,Ladenwerbung,Promovare Libr?rie
+Form39,Frame1,宣伝するメディア,Advertising,,Werbung,Publicitate
+Form39,Option6,ダイレクトメール,Direct Mail,,Postwerbung,Po?t? Direct?
+Form39,Option5,映画の前に流す,Show Ad in Theaters,,Werbung in Kinos,Afi?eaz? Publicitate �n Teatre
+Form39,Option4,テレビコマーシャル,TV Commercial,,TV-Werbung,Publicitate TV
+Form39,Option3,ホームページ制作,Online Ads,,Online-Werbung,Anun?uri Online
+Form39,Option2,新聞に載せる,Place Ad in Newspaper,,Werbung in Zeitungen,Plaseaz? Anun? �n Ziar
+Form39,Option1,ポスターを貼る,Put Up Poster,,Poster aufstellen,Pune Afi?e
+Form39,Command2,やめる,Cancel,,Abbrechen,Anuleaz?
+Form39,Command1,決定,OK,,OK,OK
+Form39,Label3,お店の宣伝を行います ,Promote Shop,,Den Laden werben,Promovare Libr?rie
+Form44,Form44,ダイレクトメール,Direct Mail,,Postwerbung,Po?t? Direct?
+Form44,Command1,やめる,Stop,,Stop,Stop
+Form44,Command2,決定,OK,,OK,OK
+Form44,Frame1,送る数,Number to send,,Zu sendende Zahl,Num?r de trimis
+Form44,Option1,通,No.,,Nummer,Nu.
+Form44,Label5,残金,Balance,,Guthaben,Balan??
+Form44,Label5,費用,Expenses,,Ausgaben,Cheltuieli
+Form44,Label5,資金,Funds,,Geldmittel,Finan?are
+Form44,Label3,ダイレクトメールを送ります ,Send direct mail,,Direktsendung senden,Trimitere po?t? direct?
+Form41,Form41,お店の詳細情報,Shop's Detailed Info,,Detailierte Ladeninfo,Informa?ii Detaliate ale Libr?riei
+Form41,Frame1,パラメータ,Parameters,,Parameter,Parametrii
+Form41,Label1,人気,Popularity,,Popularität,Popularitate
+Form41,Label1,耐震度,Seismic Resistance,,seismischer Widerstand,Rezisten?? Seismic?
+Form41,Label1,よごれ,Filthiness,,Schmutz,Murd?rie
+Form41,Label1,知名度,Reputation,,Ruf,Reputa?ie
+Form41,Label1,お店規模,Store Size,,Ladengröße,M?rime Libr?rie
+Form41,Label1,時,Hour,,Stunde,Or?
+Form41,Label2,日曜日,Sunday,,Sonntag,Duminic?
+Form41,Label1,日,Day,,Tag,Zi
+Form41,Label1,月,Month,,Monat,Lun?
+Form41,Label1,年,Year,,Jahr,An
+Form41,Label1,星の数,Rating,,Bewertung,Recenzii
+Form41,Label1,資金,Funds,,Geldmittel,Finan?are
+Form41,Label1,本屋の名前,Bookstore Name,,Bücherladen-Name,Numele Libr?riei
+Form43,Form43,宣伝映画製作,Promotional Film Production,,Werbefilmproduktion,Producerea unui Film de Promovare
+Form43,Frame1,製作者,Producer,,Produzent,Produc?tor
+Form43,Option3,有名映画監督に頼む,Hire Famous Director,,Berühmten Regisseur anheuern,Angajeaz? Regizor Faimos
+Form43,Option2,CM制作会社に頼む,Ask An Advertising Company,,Eine Werbefirma fragen,�ntreab? o Companie de Publicitate
+Form43,Option1,自主制作する,Produce Independently ,,Unabhängig produzieren,Produ Independent
+Form43,Command2,決定,OK,,OK,OK
+Form43,Command1,やめる,Cancel,,Abbrechen,Anuleaz?
+Form43,Label5,資金,Funds,,Geldmittel,Finan?are
+Form43,Label5,費用,Expenses,,Ausgaben,Cheltuieli
+Form43,Label5,残金,Balance,,Guthaben,Balan??
+Form43,Label3,宣伝映画を制作します ,Make Promotional Film,,Einen Werbefilm drehen,Produ Film Publicitar
+Form42,Form42,テレビコマーシャル,Television Commerical ,,Fernsehwerbung,Publicitate TV
+Form42,Frame1,製作者,Producer,,Produzent,Produc?tor
+Form42,Option3,有名映画監督に頼む,Hire Famous Director,,Berühmten Regisseur anheuern,Angajeaz? Regizor Faimos
+Form42,Option2,CM制作会社に頼む,Ask An Advertising Company,,Eine Werbefirma fragen,�ntreab? o Companie de Publicitate
+Form42,Option1,自主制作する,Produce Independently ,,Unabhängig produzieren,Produ Independent
+Form42,Command2,決定,OK,,OK,OK
+Form42,Command1,やめる,Cancel,,Abbrechen,Anuleaz?
+Form42,Label5,資金,Funds,,Geldmittel,Finan?are
+Form42,Label5,費用,Expenses,,Ausgaben,Cheltuieli
+Form42,Label5,残金,Balance,,Guthaben,Balan??
+Form42,Label3,テレビコマーシャル制作  ,Create Television Commercial,,Fernsehwerbung erstellen,Creeaz? Publicitate TV
+Form40,Form40,ポスターを貼る,Put Up Poster,,Poster aufstellen,Pune Afi?
+Form40,Command1,やめる,Cancel,,Abbrechen,Anuleaz?
+Form40,Command2,決定,OK,,OK,OK
+Form40,Frame1,貼る枚数,Qty to put up:,,Wieviele aufstellen:,Cantitate de a pune:
+Form40,Option1,枚,Posters,,Poster,Afi?e
+Form40,Label5,残金,Balance,,Guthaben,Balan??
+Form40,Label5,費用,Expenses,,Ausgaben,Cheltuieli
+Form40,Label5,資金,Funds,,Geldmittel,Finan?are
+Form40,Label3,ポスターを貼ります  ,Put Up Posters,,Poster aufstellen,Pune Afi?e
+Form45,Form45,お店のサービス,Manager's Special,,Manager-Spezial,Specialul Manager-ului
+Form45,Frame3,ポスター取り扱い,Poster Management,,Poster-Management,Management Afi?
+Form45,Option5,取り扱う,Handle,,Bearbeiten,Ocup?-te
+Form45,Option6,取り扱わない,Do not handle,,Nicht bearbeiten,Nu te ocupa
+Form45,Frame2,宅配便受付,Accept Package Delivery,,Paketlieferung akzeptieren,Accept? Livrare Pachet
+Form45,Option4,受付しない,Do Not Accept,,Nicht akzeptieren,Nu Accepta
+Form45,Option3,受付する,Accept Package Delivery,,Paketlieferung akzeptieren,Accept? Livrare Pachet
+Form45,Frame1,写真現像受付,Photo Development Desk,,Fotoentwicklung,Birou de Dezvoltare a Fotografiilor
+Form45,Option2,受付しない,Not accepting reservations,,Reservierungen werden nicht akzeptiert,Nu accept?m rezerv?ri
+Form45,Option1,受付する,Accepting reservations,,Reservierungen akzeptiert,Accept?m rezerv?ri
+Form45,Frame4,図書券の取り扱い,Handle Coupons,,Coupons bearbeiten,Ocup?-te de Cupoane
+Form45,Option8,取り扱わない,Do not handle,,Nicht bearbeiten,Nu te ocupa
+Form45,Option7,取り扱う,Handle,,Bearbeiten,Ocup?-te
+Form45,Label1,ポスター1枚につき1000円の利益です。,1000 Yen Profit Per Poster / Month,,1000 Yen Profit je Poster / Monat,1000 Yen Profit pe Afi? / Lun?
+Form45,Label1,費用 月 2万円,2000 Yen Profit Per Poster / Month,,2000 Yen Profit je Poster / Monat,2000 Yen Profit pe Afi? / Lun?
+Form45,Label1,費用 月 2万円,Costs 20000 Yen Per Month,,Kostet 20000 Yen pro Monat,Cost? 20000 de Yen pe Lun?
+Form45,Label1,配達物1つにつき1000円の利益です。,10000 yen profit per delivery,,10000 Yen Profit je Lieferung,10000 de yen profit pe livrare
+Form45,Label1,費用 月 2万円,Cost 20000 Yen per month,,Kostet 20000 Yen pro Monat,Cost? 20000 de Yen pe lun?
+Form45,LAbel1,フィルム1本につき800円の利益です。,800 yen profit per film,,800 Yen Profit je Film,800 yen profit pe film
+Form45,Label1,費用 月 2万円,Cost 20000 Yen per month,,Kostet 20000 Yen pro Monat,Cost? 20000 de Yen pe lun?
+Form45,Label1,図書券 1枚につき 500円の利益です。,500 yen profit per book voucher,,500 Yen Profit je Buchgutschein,500 yen profit pe voucher de carte
+Form45,Command2,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form45,Command1,決定,OK,,OK,OK
+Form45,Label3,お店のサービスです  ,Store's Services,,Ladenservices,Serviciile Libr?riei
+Form46,Form46,店員から,Store Clerk,,Ladenverkäufer,Casier Libr?rie
+Form47,Form47,被害報告,Damage Report,,Schadensbericht,Raport de Daune
+Form47,Command1,閉じる,Close,,Schließen,�nchide
+Form47,Label,被害報告です ,Damage Report,,Schadensbericht,Raport de Daune
+Form48,Form48,業界新聞,Industry Newspaper,,Industriezeitung,Ziar de Industrie
+Form48,Label8,8月55日,August 55th,,55. August,55 August
+Form48,Label6,最近の業界,Right now in the business world,,Jetzt in der Businesswelt,Acum �n lumea business-ului
+Form48,Label5,今月のお店,Store of the month,,Laden des Monats,Libr?ria lunii
+Form48,Label4,雑誌TOP10,Top 10 Magazines,,Top 10 Zeitschriften,Top 10 Reviste
+Form48,Label2,書籍TOP10,Top 10 Books,,Top 10 Bücher,Top 10 C?r?i
+Form48,Command1,閉じる,Close,,Schließen,�nchide
+Form48,Label1,読みたい見出しを押してください,Click the headlines you want to read,,"Klicke die Schlagzeilen an, die du lesen möchtest",Apas? pe titlurile pe care dore?ti s? le cite?ti
+Form48,Label3,業界新聞です,This is the Business World News,,Das sind die Business World News,Acestea sunt ?tirile Mondiale ale Business-ului
+Form50,Form50,雑誌売り上げトップ10,Top 10  Popular Magazines,,Top 10 beliebteste Zeitschriften,Top 10 Reviste Populare
+Form50,Label4,ほんのなめ,Name of Book,,Name des Buches,Numele C?r?ii
+Form50,Label5,円,Yen,,Yen,Yen
+Form50,Label1,価格,Price,,Preis,Pre?
+Form50,Label1,雑誌名,Magazine Title,,Zeitschrift-Titel,Titlu Revist?
+Form50,Label1,順位,Ranking,,Platzierung,Clasament
+Form50,Label3,雑誌の売り上げトップ10,Top 10 Most Popuar Magazines,,Top 10 meistbeliebteste Zeitschriften,Top 10 Cele Mai Populare Reviste
+Form49,Form49,書籍売り上げトップ10,Top 10 Most Popuar Books,,Top 10 meistbeliebteste Bücher,Top 10 Cele Mai Populare C?r?i
+Form49,Label5,円,Yen,,Yen,Yen
+Form49,Label4,ほんのなめ,,Just lick (??) - might be placeholder,,
+Form49,Label1,順位,Ranking,,Platzierung,Clasament
+Form49,Label1,雑誌名,Magazine Name,,Zeitschrift-Name,Numele Revistei
+Form49,Label1,価格,Price,,Preis,Pre?
+Form49,Label3,書籍の売り上げトップ10  ,Top 10 Most Popular Books,,Top 10 beliebteste Bücher,Top 10 Cele Mai Populare C?r?i
+Form53,Form53,トップニュース,Top News,,Top News,Top News
+Form53,Label3,トップニュース ,Top News,,Top News,Top News
+Form51,Form51,今月のお店,Store of the Month,,Laden des Monats,Libr?ria Lunii
+Form51,Label3,今月のお店,Store of the Month,,Laden des Monats,Libr?ria Lunii
+Form52,Form52,最近の業界,Recent Industry News,,Aktuelle Branchennachrichten,?tirile Recente ale Industriei
+Form52,Label3,最近の業界,Recent Industry News,,Aktuelle Branchennachrichten,?tirile Recente ale Industriei
+Form54,Form54,星の数アップ,Rating Increase,,Bewertungssteigerung,Cre?tere Recenzie
+Form54,Label1,全日本本屋協会,All Japan Booksellers Association,,Nationaler Verband der Buchhändler,Asocia?ia Na?ional? a V�nz?torilor de C?r?i
+Form54,Label1,の数が1つふえました。,for additional stars,,für zusätzliche Sterne,pentru stele �n plus
+Form54,Label1,プの条件を満たしたため、星,becuase it fulfills the requirements,,weil es die Anforderungen erfüllt,deoarece �ndepline?te criteriile
+Form54,Label1,あなたのお店は、星の数アッ,Your store got another star,,Dein Laden hat einen weiteren Stern bekommen,Libr?ria ta a primit o stea �n plus
+Form54,Command1,閉じる,Close,,Schließen,�nchide
+Form54,Label3,星の数がアップしました,Rating Increase,,Bewertungssteigerung,Cre?tere Recenzie
+Form55,Form55,設定,Settings,,Einstellungen,Set?ri
+Form55,Frame1,月末などのウインドウを自動で閉じる速度,Speed of Store Closing,,Geschwindigkeit der Ladenschließung,Viteza �nchiderii Libr?riei
+Form55,Check2,自動では閉じない,Don't Close Automatically,,Nicht automatisch schließen,Nu �nchide Automat
+Form55,Check1,店員からのメッセージの表示,Show messages from employees,,Zeige Nachrichten von Angestellten,Afi?eaz? mesaje de la angaja?i
+Form55,Command2,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form55,Command1,決定,OK,,OK,OK
+Form55,Label3,設定,Settings,,Einstellungen,Set?ri
+Form56,Form56,サービス備品,Service equipment,,Service-Ausrüstung,Echipament service
+Form56,Command1,設置,Set up,,Setup,Setare
+Form56,Command2,キャンセル,Cancel,,Abbrechen,Anuleaz?
+Form56,Label1,価格,Price,,Preis,Pre?
+Form56,Label2,内容,Content,,Inhalt,Con?inut
+Form56,Label,円,Yen,,Yen,Yen
+Form56,Label3,サービス備品設置,Service equipment installation,,Service-Ausrüstungsinstallation,Instalare echipament service
+Form57,Form57,サービス備品情報,Service equipment info,,Service-Ausrüstungsinfo,Info echipament service
+Form57,Command2,閉じる,Close,,Schließen,�nchide
+Form57,Command1,撤去,Withdraw,,Entziehen,Retrage
+Form57,Label1,価格,Price,,Preis,Pre?
+Form57,Label1,内容,Contents,,Inhalt,Con?inut
+Form57,Label3,サービス備品の情報です,Service Equipment Info,,Service-Ausrüstung-Info,Info Echipament Service
+Form58,Form58,グランプリ獲得,Adquisition Grand Prix,,Gewinne den Grand-Prix,Achizi?ionare Grand Prix
+Form58,Command1,閉じる,Close,,Schließen,�nchide
+Form58,Label1,ます。,,,,
+Form58,Label1,賞金1000万円とこの表彰状をおくります,we will send you a 10 million yen prize and this certificate,,Wir senden dir einen Preis von 10 Mio. Yen und dieses Zertifikat,�?i vom trimite un premiu de 10 millioane de yen ?i acest certificat
+Form58,Label1,ストでグランプリを獲得しましたので,in the All Japan Book Store Contest,,im Nationalen Buchladenwettbewerb,�n Competi?ia Na?ional? a Libr?riilor
+Form58,Label1,あなたのお店は全日本本屋コンテ,Your store has won the Grand Prix,,Dein Laden hat den Grand Prix gewonnen!,Libr?ria ta a c�?tigat Grand Prix-ul
+Form58,Label1,グランプリ,Grand Prix,,Grand Prix,Grand Prix
+Form58,Font,ＭＳ 明朝,MS Mincho,,MS Mincho,MS Mincho
+Form58,Label1,全日本本屋協会,Japan National Bookstore Association,,Japanischer Verband der Buchhändler,Asocia?ia Japonez? a V�nz?torilor de C?r?i
+Form58,Label3,グランプリ獲得 ,Grand Prix Winner,,Grand-Prix-Sieger,C�?tig?torul de Grand Prix
+Form59,Form59,今月の入荷スケジュール,This month's arrivals,,Diesmonatige Ankünfte,Sosirile acestei luni
+Form59,label1,合計費用,Expenses,,Ausgaben,Cheltuieli
+Form59,Label1,入荷数,Arrivals,,Ankünfte,Sosiri
+Form59,Label1,月,Month,,Monat,Lun?
+Form59,Label1,入荷名,Arrival Name,,Ankunftsname,Numele Sosirii
+Form61,Form61,保険がおりました,Insurance Money Received,,Versicherungsgeld erhalten,Bani Primi?i de Asigurare
+Form61,Command1,閉じる,Close,,Schließen,�nchide
+Form61,Label3,保険金がおりました,Insurance Money Received,,Versicherungsgeld erhalten,Bani Primi?i de Asigurare
+Form62,Form62,立ち読み対策,Prevention for reading without buying,,Verhindere das Lesen ohne Kauf,Preven?ie de citire f?r? achizi?ionare
+Form62,Command2,やめる,Cancel,,Abbrechen,Anuleaz?
+Form62,Command1,決定,OK,,OK,OK
+Form62,Option3,これにする,Choose this,,Dies auswählen.,Alege asta
+Form62,Label1,すべての本を、立ち読みできないようにする,Prohibit reading in-store without buying,,Verbiete das Lesen der Bücher im Laden ohne sie zu kaufen,Interzice cititul �n libr?rie f?r? achizi?ionare
+Form62,Option2,これにする,Choose this,,Dies auswählen.,Alege asta
+Form62,Label1, 一冊だけ立読みできて、他はできないようにする。,Allow customers to read up to 1 book in-store before asking them to pay.,,"Erlaube es Kunden, ein Buch gratis zu lesen, bevor sie zahlen müssen.",Permite clien?ilor s? citeasc? maxim o carte �n libr?rie �nainte de a le cere s? pl?teasc?
+Form62,Option1,これにする,Choose this,,Dies auswählen.,Alege asta
+Form62,Label1,  すべての本を自由に読めるようにする。,Allow customers to read anything at will,,"Erlaube es Kunden, alles nach Belieben zu lesen",Permite clien?ilor s? citeasc? orice
+Form62,Label3,お店の立読み対策を決定します ,Select store policy about reading books in-store,,Wähle Ladenbeschluss über das Lesen der Bücher im Laden,Seteaz? regulile depre citirea c?r?ilor �n libr?rie
+Form63,Form63,お客さんの文句,Customer Complaints,,Kundenbeschwerden,Reclama?ii Clien?i
+Form63,Command1,閉じる,Close,,Schließen,�nchide
+Form63,Label1,この前買った本が、汚かったぞ！,The book I bought earlier was filthy!,,"Das Buch, welches ich vorher gekauft habe, ist dreckig!",Cartea care am cump?rat-o mai devreme era murdar?!
+Form63,Label2,立読み対策をしてください,Take measures so that people don't read without paying,,"Tu etwas dagegen, dass Kunden ohne Zahlen die Bücher lesen.",Ia m?suri a?a fel �nc�t clien?ii s? nu citeasc? f?r? a pl?ti
+Form63,Label3,お客さんが文句を言っています ,A customer is complaining,,Ein Kunde beschwert sich,Un client face o reclama?ie
+Form64,Form64,消えました,The fire is out,,Das Feuer ist ausgegangen,Focul s-a stins
+Form64,Label1,火事は、すべてを焼きつくし鎮火しました・・・,"The fire burned everything, then died out...",,Das Feuer hat alles zerstört und ist ausgegangen…,"Focul a ars totul, apoi s-a stins..."
+Form64,Command1,閉じる,Close,,Das war knapp!,�nchide
+Form65,Form65,火事発見,Fire!,,Feuer!,Foc!
+Form65,Command1,閉じる,Close,,Das war knapp!,�nchide
+Form65,Label1,近所の住民が火事を発見しました！,Your neighbors have spotted a fire!,,Die Nachbarn haben ein Feuer entdeckt!,Vecinii t?i au v?zut un foc!
+Form66,Form66,消えました,Fire went out...phew,,Feuer wurde gelöscht...puh,Focul s-a stins... phew
+Form66,Command1,閉じる,Close,,Schließen,�nchide
+Form66,Label1,消防車を呼び火事は鎮火しました。,Fire trucks were called and the fire was extinguished.,,Feuerwehrwägen wurden gerufen und das Feuer wurde gelöscht.,Pompierii au fost chema?i iar focul a fost stins.
+MDIForm1,MMenu,メニュー(&M),Menu (M),,Menü (M),Meniu (M)
+MDIForm1,MNewGame,新しくはじめる(&N),Start New (N),,Neues Spiel starten (N),�ncepe un Joc Nou (N)
+MDIForm1,MSave,ゲームの保存(&S),Save Game (S),,Speichern (S),Salveaz? Joc (S)
+MDIForm1,MLoad,ゲームの読込(&L),Load Game (L),,Spiel laden (L),�ncarc? Joc (L)
+MDIForm1,MEnd,ゲーム終了(&E),Quit Game (E),,Spiel verlassen (E),P?r?se?te Joc (E)
+MDIForm1,MAction,行動(&A),Action (A),,Aktion (A),Ac?iune (A)
+MDIForm1,MNyuukaH,入荷変更(&H),Change Books In Stock (H),,Ändere die Bücher auf Lager (H),Schimb? C?r?ile �n Stoc (H)
+MDIForm1,MBookIn,入荷雑誌変更(&I),Change Magazines In Stock (L),,Ändere die Zeitschriften auf Lager (L),Schimb? Revistele �n Stoc (L)
+MDIForm1,MSysoseki,書籍を入荷(&N),Books in Stock (N),,Bücher auf Lager (N),C?r?i �n Stoc (N)
+MDIForm1,MTenin,店員関係(&M),Employee Relationship (T),,Mitarbeiterverhältnis (T),Rela?ie Angajat (T)
+MDIForm1,MTeen,店員を雇用(&T),Hire Employee (T),,Mitarbeiter einstellen (T),Angajeaz? (T)
+MDIForm1,MKaiko,店員を解雇(&O),Fire Employee (O),,Mitarbeiter feuern (O),Concediaz? Angajat (O)
+MDIForm1,MTeninSetup,店員の設定(&S),Employee Settings (S),,Mitarbeitereinstellungen (S),Set?ri Angajat (S)
+MDIForm1,MEigyouHousin,お店の営業方針(&E),Store Sales Plan (E),,Laden-Verkaufsplan (E),Plan de V�nz?ri Libr?rie (E)
+MDIForm1,MEigyou,お店のサービス内容(&E),Store Services (E),,Ladenservices (E),Serviciile Libr?riei (E)
+MDIForm1,Menu MTatiyomi,立ち読み対策(&T),Browsing Policy (T),,Die Regeln durchsuchen (T),Reguli de Navigare (T)
+MDIForm1,MHoken,保険に入る(&H),Get Insurance (H),,Versicherung bekommen (H),Ob?ine Asigurare (H)
+MDIForm1,MSouzi,お店を掃除する(&S),Clean the Store (S),,Den Laden reinigen (S),Cur??? Libr?ria (S)
+MDIForm1,MSenden,お店の宣伝をする(&S),Advertise the Store (S),,Für den Laden werben (S),F? Publicitate la Libr?rie (S)
+MDIForm1,MTakarakuzi,宝くじを買う(&T),Set up Lottery (T),,Lotterie einrichten (T),Seteaz? loterie (T)
+MDIForm1,MGinkou,銀行へ行く(&G),Go to the Bank (G),,Zur Bank gehen (G),Du-te la Banc? (G)
+MDIForm1,MTaisin,耐震工事をする(&T),Earthquake Proofing (T),,Erdbebenschutz (T),Prevenirea Cutremurelor (T)
+MDIForm1,MSyoubou,消防車を呼ぶ(&S),Call Fire Dept (S),,Feuerwehr rufen (S),Apeleaz? Pompierii (S)
+MDIForm1,MKibo,お店の規模拡大(&K),Expand the Store (K),,Erweitere den Laden (K),Extinde Libr?ria (K)
+MDIForm1,MInformation,情報(&I),Information (I),,Information (I),Informa?ii (I)
+MDIForm1,MZaiko,在庫(&Z),Inventory (Z),,Inventar (Z),Inventar (Z)
+MDIForm1,MZssiInfo,雑誌の在庫(&Z),Magazine Inventory (Z),,Zeitschriftinventar (Z),Inventar Reviste (Z)
+MDIForm1,MSyosekiZaiko,書籍の在庫(&S),Book Inventory (S),,Bücherinventar (S),Inventar C?r?i (S)
+MDIForm1,MGurahu,グラフ(&G),Graph (G),,Diagramm (G),Grafic (G)
+MDIForm1,MRiekiGurahu,お店の利益グラフ(&R),Store Profit Graph (R),,Ladenprofitdiagramm (R),Grafic Profit Libr?rie (R)
+MDIForm1,MBookGurahu,本の売り数グラフ(&G),Book Sales Graph (G),,Buchverkaufsdiagramm (G),Grafic V�nz?ri C?r?i (G)
+MDIForm1,MGuest,お客さんの意見(&G),Customer Opinion (G),,Kundenmeinung (G),Opiniile Clien?ilor (G)
+MDIForm1,MGRead,業界新聞を読む(&R),Read Biz Paper (R),,Wirtschaftszeitung lesen (R),Cite?te Ziarul de Afaceri (R)
+MDIForm1,MNyuuka,入荷スケジュール(&N),Arrivals Schedule (N),,Ankunftsplan (N),Program Sosiri (N)
+MDIForm1,MTinfor,店員情報(&T),Employee Info (T),,Mitarbeiter-Info (T),Info Angaja?i (T)
+MDIForm1,MBookInfo,お店の利益(&S),Store Profit (S),,Ladenprofit (S),Profit Libr?rie (S)
+MDIForm1,MBookSyousai,お店の詳細情報(&S),Detailed Store Info (S),,Detailierte Ladeninfo (S),Informa?ii Detaliate Libr?rie (S)
+MDIForm1,MWindow,ウインドウ(&W),Window (W),,Fenster (W),Fereastr? (W)
+MDIForm1,MSwitch,ウインドウ切り替え(&W),Window Switching (W),,Fenster wechseln (W),Schimbare Fereastr? (W)
+MDIForm1,MSetup,設定(&S),Settings (S),,Einstellungen (S),Set?ri (S)
+MDIForm1,MSound,効果音の設定(&S),Sound Settings (S),,Soundeinstellungen (S),Set?ri Sunet (S)
+MDIForm1,MSoundYes,鳴らす(&Y),Ring (Y),,Klingeln (Y),Sun? (Y)
+MDIForm1,MSoundNo,鳴らさない(&N),Don't ring (N),,Nicht klingeln (N),Nu suna (N)
+MDIForm1,MKabegami,壁紙の設定(&K),Background Settings (K),,Hintergrundeinstellungen (K),Set?ri Fundal (K)
+MDIForm1,MKabeTitle,タイトル(&T),Title (T),,Titel (T),Titlu (T)
+MDIForm1,MKAbeMoyou,模様(&M),Design (M),,Design (M),Design (M)
+MDIForm1,MKabeNothing,なし(&N),None (N),,Nichts (N),Niciuna (N)
+MDIForm1,MSSetup,設定(&S),Settings (S),,Einstellungen (S),Set?ri (S)
+MDIForm1,MGameSpeed,ゲームスピード(&G),Game Speed (G),,Geschwindigkeit (G),Vitez? Joc (G)
+MDIForm1,MHelp,ヘルプ(&H),Help (H),,Hilfe (H),Ajutor (H)
+MDIForm1,MHelpGame,ヘルプ(&H),Help (H),,Hilfe (H),Ajutor (H)
+MDIForm1,MHelpVersion,バージョン情報(&A)...,Version Info (A),,Versionsinfo (A),Informa?ii Versiune (A)
