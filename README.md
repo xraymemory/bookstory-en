@@ -23,6 +23,9 @@ You should be able to run `BookStory_en.exe` directly. I've tested it out on Win
 
 If you receive a message like "The program can't start because MSVBVM50.DLL is missing from your computer. Try reinstalling the program to fix this problem." the fix is to install the VB6.0 Runtime Plus https://sourceforge.net/projects/vb6extendedruntime/
 
+## DEVELOPER-DISCORD
+If you have trouble getting things running or just want to follow the newest developments, you may join our Discord server: https://discord.gg/XqAhyqyUxU
+
 ## TO DO
 * Figure out a way to change all the ???s to Japanese characters. 
   * The font is MS GOTHIC but doesnt seem to be rendering properly 
