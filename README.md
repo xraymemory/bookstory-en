@@ -13,6 +13,11 @@
 
 Translated strings are located in the `translation.csv` file. Translated source files and playable binaries are in the `en` directory.
 
+## Current translations
+* English (playable)
+* German (not playable yet)
+* Romanian (not playable yet)
+
 ## INSTALLATION HELP
 You should be able to run `BookStory_en.exe` directly. I've tested it out on Windows 95, 2000, and 10. 
 
