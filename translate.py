@@ -5,7 +5,7 @@ t_dict = {}
 jp_files =[]
 
 
-with open("translation.csv") as f:
+with open("translation_ui.csv") as f:
 	reader = csv.DictReader(f)
 	for row in reader:
 		t_dict[row["JAPANESE"]] = row["ENGLISH (HUMAN)"]
