@@ -23,6 +23,11 @@ You should be able to run `BookStory_en.exe` directly. I've tested it out on Win
 
 If you receive a message like "The program can't start because MSVBVM50.DLL is missing from your computer. Try reinstalling the program to fix this problem." the fix is to install the VB6.0 Runtime Plus https://sourceforge.net/projects/vb6extendedruntime/
 
+## RUNNING ON MAC
+According to joelburget on HN, the following snippet lets you play BookStory on OSX via `wine`
+
+``` brew tap gcenx/wine brew install --cask --no-quarantine wine-crossover brew install winetricks winetricks corefonts vcrun6 vb5run native_oleaut32 vcrun2010 richtx32 comdlg32 comctl32ocx wine BookStory_en.exe ```
+
 ## DEVELOPER-DISCORD
 If you have trouble getting things running or just want to follow the newest developments, you may join our Discord server: https://discord.gg/XqAhyqyUxU
 
